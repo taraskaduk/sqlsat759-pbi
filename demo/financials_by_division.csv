@@ -1,0 +1,1765 @@
+date,period,division,pl_group,amount
+2014-01-01,train,Albuquerque,Cost of goods sold,-1185990
+2014-01-01,train,Albuquerque,General & Admin,-296530
+2014-01-01,train,Albuquerque,Revenue,1591200
+2014-01-01,train,Albuquerque,Sales & Marketing,-284960
+2014-02-01,train,Albuquerque,Cost of goods sold,-1175720
+2014-02-01,train,Albuquerque,General & Admin,-264420
+2014-02-01,train,Albuquerque,Revenue,1342120
+2014-02-01,train,Albuquerque,Sales & Marketing,-251160
+2014-03-01,train,Albuquerque,Cost of goods sold,-1442870
+2014-03-01,train,Albuquerque,General & Admin,-299650
+2014-03-01,train,Albuquerque,Revenue,1932840
+2014-03-01,train,Albuquerque,Sales & Marketing,-331500
+2014-04-01,train,Albuquerque,Cost of goods sold,-1305850
+2014-04-01,train,Albuquerque,General & Admin,-269100
+2014-04-01,train,Albuquerque,Revenue,1665820
+2014-04-01,train,Albuquerque,Sales & Marketing,-285740
+2014-05-01,train,Albuquerque,Cost of goods sold,-1509300
+2014-05-01,train,Albuquerque,General & Admin,-311350
+2014-05-01,train,Albuquerque,Revenue,2098460
+2014-05-01,train,Albuquerque,Sales & Marketing,-312520
+2014-06-01,train,Albuquerque,Cost of goods sold,-1784250
+2014-06-01,train,Albuquerque,General & Admin,-317070
+2014-06-01,train,Albuquerque,Revenue,2548520
+2014-06-01,train,Albuquerque,Sales & Marketing,-412880
+2014-07-01,train,Albuquerque,Cost of goods sold,-1996670
+2014-07-01,train,Albuquerque,General & Admin,-329940
+2014-07-01,train,Albuquerque,Revenue,3015480
+2014-07-01,train,Albuquerque,Sales & Marketing,-540410
+2014-08-01,train,Albuquerque,Cost of goods sold,-1700400
+2014-08-01,train,Albuquerque,General & Admin,-301340
+2014-08-01,train,Albuquerque,Revenue,2773420
+2014-08-01,train,Albuquerque,Sales & Marketing,-575120
+2014-09-01,train,Albuquerque,Cost of goods sold,-1648530
+2014-09-01,train,Albuquerque,General & Admin,-345150
+2014-09-01,train,Albuquerque,Revenue,2527070
+2014-09-01,train,Albuquerque,Sales & Marketing,-469300
+2014-10-01,train,Albuquerque,Cost of goods sold,-1531400
+2014-10-01,train,Albuquerque,General & Admin,-279500
+2014-10-01,train,Albuquerque,Revenue,2173990
+2014-10-01,train,Albuquerque,Sales & Marketing,-383240
+2014-11-01,train,Albuquerque,Cost of goods sold,-1403870
+2014-11-01,train,Albuquerque,General & Admin,-255190
+2014-11-01,train,Albuquerque,Revenue,1881620
+2014-11-01,train,Albuquerque,Sales & Marketing,-254540
+2014-12-01,train,Albuquerque,Cost of goods sold,-1205750
+2014-12-01,train,Albuquerque,General & Admin,-264680
+2014-12-01,train,Albuquerque,Revenue,1950260
+2014-12-01,train,Albuquerque,Sales & Marketing,-367770
+2015-01-01,train,Albuquerque,Cost of goods sold,-1054690
+2015-01-01,train,Albuquerque,General & Admin,-245310
+2015-01-01,train,Albuquerque,Revenue,1425060
+2015-01-01,train,Albuquerque,Sales & Marketing,-323180
+2015-02-01,train,Albuquerque,Cost of goods sold,-1076530
+2015-02-01,train,Albuquerque,General & Admin,-275730
+2015-02-01,train,Albuquerque,Revenue,1443780
+2015-02-01,train,Albuquerque,Sales & Marketing,-312260
+2015-03-01,train,Albuquerque,Cost of goods sold,-1222780
+2015-03-01,train,Albuquerque,General & Admin,-256230
+2015-03-01,train,Albuquerque,Revenue,1669460
+2015-03-01,train,Albuquerque,Sales & Marketing,-356200
+2015-04-01,train,Albuquerque,Cost of goods sold,-1268670
+2015-04-01,train,Albuquerque,General & Admin,-244270
+2015-04-01,train,Albuquerque,Revenue,1896050
+2015-04-01,train,Albuquerque,Sales & Marketing,-383760
+2015-05-01,train,Albuquerque,Cost of goods sold,-1249040
+2015-05-01,train,Albuquerque,General & Admin,-345540
+2015-05-01,train,Albuquerque,Revenue,1966120
+2015-05-01,train,Albuquerque,Sales & Marketing,-340990
+2015-06-01,train,Albuquerque,Cost of goods sold,-1716520
+2015-06-01,train,Albuquerque,General & Admin,-393120
+2015-06-01,train,Albuquerque,Revenue,2758860
+2015-06-01,train,Albuquerque,Sales & Marketing,-454870
+2015-07-01,train,Albuquerque,Cost of goods sold,-1756170
+2015-07-01,train,Albuquerque,General & Admin,-334490
+2015-07-01,train,Albuquerque,Revenue,2786290
+2015-07-01,train,Albuquerque,Sales & Marketing,-478010
+2015-08-01,train,Albuquerque,Cost of goods sold,-1661530
+2015-08-01,train,Albuquerque,General & Admin,-336440
+2015-08-01,train,Albuquerque,Revenue,3025880
+2015-08-01,train,Albuquerque,Sales & Marketing,-542750
+2015-09-01,train,Albuquerque,Cost of goods sold,-1555840
+2015-09-01,train,Albuquerque,General & Admin,-273650
+2015-09-01,train,Albuquerque,Revenue,2322580
+2015-09-01,train,Albuquerque,Sales & Marketing,-370110
+2015-10-01,train,Albuquerque,Cost of goods sold,-1396850
+2015-10-01,train,Albuquerque,General & Admin,-249340
+2015-10-01,train,Albuquerque,Revenue,2254200
+2015-10-01,train,Albuquerque,Sales & Marketing,-348400
+2015-11-01,train,Albuquerque,Cost of goods sold,-1088100
+2015-11-01,train,Albuquerque,General & Admin,-245440
+2015-11-01,train,Albuquerque,Revenue,1958320
+2015-11-01,train,Albuquerque,Sales & Marketing,-399100
+2015-12-01,train,Albuquerque,Cost of goods sold,-1087450
+2015-12-01,train,Albuquerque,General & Admin,-215670
+2015-12-01,train,Albuquerque,Revenue,2153710
+2015-12-01,train,Albuquerque,Sales & Marketing,-570440
+2016-01-01,train,Albuquerque,Cost of goods sold,-994890
+2016-01-01,train,Albuquerque,General & Admin,-221650
+2016-01-01,train,Albuquerque,Revenue,1578850
+2016-01-01,train,Albuquerque,Sales & Marketing,-306410
+2016-02-01,train,Albuquerque,Cost of goods sold,-1069510
+2016-02-01,train,Albuquerque,General & Admin,-215540
+2016-02-01,train,Albuquerque,Revenue,1707030
+2016-02-01,train,Albuquerque,Sales & Marketing,-299910
+2016-03-01,train,Albuquerque,Cost of goods sold,-1220050
+2016-03-01,train,Albuquerque,General & Admin,-241540
+2016-03-01,train,Albuquerque,Revenue,1921530
+2016-03-01,train,Albuquerque,Sales & Marketing,-306020
+2016-04-01,train,Albuquerque,Cost of goods sold,-1149330
+2016-04-01,train,Albuquerque,General & Admin,-230620
+2016-04-01,train,Albuquerque,Revenue,1706380
+2016-04-01,train,Albuquerque,Sales & Marketing,-287950
+2016-05-01,train,Albuquerque,Cost of goods sold,-1176240
+2016-05-01,train,Albuquerque,General & Admin,-241930
+2016-05-01,train,Albuquerque,Revenue,1832740
+2016-05-01,train,Albuquerque,Sales & Marketing,-388700
+2016-06-01,train,Albuquerque,Cost of goods sold,-1493700
+2016-06-01,train,Albuquerque,General & Admin,-260520
+2016-06-01,train,Albuquerque,Revenue,2403960
+2016-06-01,train,Albuquerque,Sales & Marketing,-405340
+2016-07-01,train,Albuquerque,Cost of goods sold,-1480830
+2016-07-01,train,Albuquerque,General & Admin,-287170
+2016-07-01,train,Albuquerque,Revenue,2341040
+2016-07-01,train,Albuquerque,Sales & Marketing,-350740
+2016-08-01,train,Albuquerque,Cost of goods sold,-1498770
+2016-08-01,train,Albuquerque,General & Admin,-264420
+2016-08-01,train,Albuquerque,Revenue,2527850
+2016-08-01,train,Albuquerque,Sales & Marketing,-409500
+2016-09-01,train,Albuquerque,Cost of goods sold,-1288690
+2016-09-01,train,Albuquerque,General & Admin,-245960
+2016-09-01,train,Albuquerque,Revenue,2111720
+2016-09-01,train,Albuquerque,Sales & Marketing,-382980
+2016-10-01,train,Albuquerque,Cost of goods sold,-1109550
+2016-10-01,train,Albuquerque,General & Admin,-238420
+2016-10-01,train,Albuquerque,Revenue,1742650
+2016-10-01,train,Albuquerque,Sales & Marketing,-258830
+2016-11-01,train,Albuquerque,Cost of goods sold,-1355250
+2016-11-01,train,Albuquerque,General & Admin,-280410
+2016-11-01,train,Albuquerque,Revenue,2474420
+2016-11-01,train,Albuquerque,Sales & Marketing,-402610
+2016-12-01,train,Albuquerque,Cost of goods sold,-985140
+2016-12-01,train,Albuquerque,General & Admin,-301600
+2016-12-01,train,Albuquerque,Revenue,2008760
+2016-12-01,train,Albuquerque,Sales & Marketing,-295750
+2017-01-01,train,Albuquerque,Cost of goods sold,-975910
+2017-01-01,train,Albuquerque,General & Admin,-256880
+2017-01-01,train,Albuquerque,Revenue,1435200
+2017-01-01,train,Albuquerque,Sales & Marketing,-256360
+2017-02-01,train,Albuquerque,Cost of goods sold,-1040650
+2017-02-01,train,Albuquerque,General & Admin,-234780
+2017-02-01,train,Albuquerque,Revenue,1516320
+2017-02-01,train,Albuquerque,Sales & Marketing,-283660
+2017-03-01,train,Albuquerque,Cost of goods sold,-1087580
+2017-03-01,train,Albuquerque,General & Admin,-273390
+2017-03-01,train,Albuquerque,Revenue,1644890
+2017-03-01,train,Albuquerque,Sales & Marketing,-340730
+2017-04-01,train,Albuquerque,Cost of goods sold,-1047800
+2017-04-01,train,Albuquerque,General & Admin,-242060
+2017-04-01,train,Albuquerque,Revenue,1631110
+2017-04-01,train,Albuquerque,Sales & Marketing,-325260
+2017-05-01,train,Albuquerque,Cost of goods sold,-1367080
+2017-05-01,train,Albuquerque,General & Admin,-216580
+2017-05-01,train,Albuquerque,Revenue,2080780
+2017-05-01,train,Albuquerque,Sales & Marketing,-384540
+2017-06-01,train,Albuquerque,Cost of goods sold,-1551810
+2017-06-01,train,Albuquerque,General & Admin,-304460
+2017-06-01,train,Albuquerque,Revenue,2654470
+2017-06-01,train,Albuquerque,Sales & Marketing,-534560
+2017-07-01,train,Albuquerque,Cost of goods sold,-1561820
+2017-07-01,train,Albuquerque,General & Admin,-310050
+2017-07-01,train,Albuquerque,Revenue,2619240
+2017-07-01,train,Albuquerque,Sales & Marketing,-483600
+2017-08-01,train,Albuquerque,Cost of goods sold,-1525290
+2017-08-01,train,Albuquerque,General & Admin,-234130
+2017-08-01,train,Albuquerque,Revenue,2359110
+2017-08-01,train,Albuquerque,Sales & Marketing,-402090
+2017-09-01,train,Albuquerque,Cost of goods sold,-1315470
+2017-09-01,train,Albuquerque,General & Admin,-286260
+2017-09-01,train,Albuquerque,Revenue,2054650
+2017-09-01,train,Albuquerque,Sales & Marketing,-318500
+2017-10-01,train,Albuquerque,Cost of goods sold,-1234610
+2017-10-01,train,Albuquerque,General & Admin,-246740
+2017-10-01,train,Albuquerque,Revenue,1945840
+2017-10-01,train,Albuquerque,Sales & Marketing,-342420
+2017-11-01,train,Albuquerque,Cost of goods sold,-1145170
+2017-11-01,train,Albuquerque,General & Admin,-229710
+2017-11-01,train,Albuquerque,Revenue,2001350
+2017-11-01,train,Albuquerque,Sales & Marketing,-371800
+2017-12-01,test,Albuquerque,Cost of goods sold,-1123200
+2017-12-01,test,Albuquerque,General & Admin,-297830
+2017-12-01,test,Albuquerque,Revenue,2103400
+2017-12-01,test,Albuquerque,Sales & Marketing,-350220
+2018-01-01,test,Albuquerque,Cost of goods sold,-1002820
+2018-01-01,test,Albuquerque,General & Admin,-244920
+2018-01-01,test,Albuquerque,Revenue,1452750
+2018-01-01,test,Albuquerque,Sales & Marketing,-249600
+2017-01-01,train,Boise,Cost of goods sold,-839930
+2018-01-01,test,Boise,Cost of goods sold,-847210
+2016-12-01,train,Boise,Cost of goods sold,-940160
+2015-02-01,train,Boise,Cost of goods sold,-1023490
+2016-11-01,train,Boise,Cost of goods sold,-1034150
+2016-10-01,train,Boise,Cost of goods sold,-1038830
+2017-02-01,train,Boise,Cost of goods sold,-1063010
+2015-01-01,train,Boise,Cost of goods sold,-1065220
+2015-03-01,train,Boise,Cost of goods sold,-1069510
+2016-02-01,train,Boise,Cost of goods sold,-1082120
+2015-11-01,train,Boise,Cost of goods sold,-1086800
+2016-04-01,train,Boise,Cost of goods sold,-1091480
+2014-02-01,train,Boise,Cost of goods sold,-1145170
+2017-11-01,train,Boise,Cost of goods sold,-1146210
+2016-01-01,train,Boise,Cost of goods sold,-1154920
+2014-01-01,train,Boise,Cost of goods sold,-1172340
+2016-03-01,train,Boise,Cost of goods sold,-1178190
+2014-05-01,train,Boise,Cost of goods sold,-1192880
+2014-11-01,train,Boise,Cost of goods sold,-1205230
+2016-09-01,train,Boise,Cost of goods sold,-1224210
+2014-10-01,train,Boise,Cost of goods sold,-1245140
+2017-10-01,train,Boise,Cost of goods sold,-1249170
+2014-03-01,train,Boise,Cost of goods sold,-1259570
+2017-12-01,test,Boise,Cost of goods sold,-1263470
+2017-09-01,train,Boise,Cost of goods sold,-1264510
+2014-04-01,train,Boise,Cost of goods sold,-1281280
+2014-09-01,train,Boise,Cost of goods sold,-1297010
+2016-05-01,train,Boise,Cost of goods sold,-1310140
+2017-03-01,train,Boise,Cost of goods sold,-1348230
+2014-12-01,train,Boise,Cost of goods sold,-1365780
+2015-05-01,train,Boise,Cost of goods sold,-1368380
+2017-04-01,train,Boise,Cost of goods sold,-1393080
+2015-04-01,train,Boise,Cost of goods sold,-1394250
+2015-12-01,train,Boise,Cost of goods sold,-1440920
+2014-08-01,train,Boise,Cost of goods sold,-1496950
+2016-07-01,train,Boise,Cost of goods sold,-1501110
+2015-09-01,train,Boise,Cost of goods sold,-1515670
+2016-08-01,train,Boise,Cost of goods sold,-1556100
+2015-07-01,train,Boise,Cost of goods sold,-1577680
+2016-06-01,train,Boise,Cost of goods sold,-1587170
+2017-05-01,train,Boise,Cost of goods sold,-1613170
+2014-06-01,train,Boise,Cost of goods sold,-1661530
+2015-08-01,train,Boise,Cost of goods sold,-1704040
+2015-06-01,train,Boise,Cost of goods sold,-1730560
+2015-10-01,train,Boise,Cost of goods sold,-1747070
+2017-06-01,train,Boise,Cost of goods sold,-1747070
+2017-08-01,train,Boise,Cost of goods sold,-1839890
+2014-07-01,train,Boise,Cost of goods sold,-1890720
+2017-07-01,train,Boise,Cost of goods sold,-1896440
+2018-01-01,test,Boise,General & Admin,-187330
+2017-03-01,train,Boise,General & Admin,-189540
+2016-10-01,train,Boise,General & Admin,-196430
+2016-11-01,train,Boise,General & Admin,-210600
+2017-02-01,train,Boise,General & Admin,-214240
+2017-10-01,train,Boise,General & Admin,-214760
+2017-01-01,train,Boise,General & Admin,-219180
+2017-04-01,train,Boise,General & Admin,-222560
+2015-11-01,train,Boise,General & Admin,-227890
+2017-09-01,train,Boise,General & Admin,-228800
+2017-11-01,train,Boise,General & Admin,-231530
+2016-12-01,train,Boise,General & Admin,-232830
+2014-11-01,train,Boise,General & Admin,-234390
+2017-08-01,train,Boise,General & Admin,-235820
+2016-01-01,train,Boise,General & Admin,-236990
+2016-02-01,train,Boise,General & Admin,-238290
+2016-09-01,train,Boise,General & Admin,-245310
+2015-01-01,train,Boise,General & Admin,-245700
+2016-03-01,train,Boise,General & Admin,-247520
+2014-02-01,train,Boise,General & Admin,-251290
+2017-05-01,train,Boise,General & Admin,-255060
+2014-12-01,train,Boise,General & Admin,-260520
+2015-10-01,train,Boise,General & Admin,-262340
+2015-03-01,train,Boise,General & Admin,-264030
+2015-08-01,train,Boise,General & Admin,-269620
+2017-06-01,train,Boise,General & Admin,-270140
+2014-05-01,train,Boise,General & Admin,-270660
+2016-04-01,train,Boise,General & Admin,-270790
+2015-05-01,train,Boise,General & Admin,-271310
+2014-10-01,train,Boise,General & Admin,-273780
+2015-02-01,train,Boise,General & Admin,-274690
+2015-04-01,train,Boise,General & Admin,-274690
+2017-07-01,train,Boise,General & Admin,-275860
+2016-06-01,train,Boise,General & Admin,-281840
+2014-04-01,train,Boise,General & Admin,-283010
+2016-05-01,train,Boise,General & Admin,-286260
+2015-06-01,train,Boise,General & Admin,-287820
+2014-08-01,train,Boise,General & Admin,-289510
+2014-03-01,train,Boise,General & Admin,-291200
+2014-01-01,train,Boise,General & Admin,-298090
+2015-07-01,train,Boise,General & Admin,-299260
+2015-09-01,train,Boise,General & Admin,-299260
+2014-07-01,train,Boise,General & Admin,-305630
+2016-08-01,train,Boise,General & Admin,-313170
+2014-06-01,train,Boise,General & Admin,-319670
+2016-07-01,train,Boise,General & Admin,-321880
+2014-09-01,train,Boise,General & Admin,-345800
+2017-12-01,test,Boise,General & Admin,-345800
+2015-12-01,train,Boise,General & Admin,-400660
+2017-07-01,train,Boise,Revenue,2768870
+2017-06-01,train,Boise,Revenue,2536950
+2017-08-01,train,Boise,Revenue,2536950
+2014-07-01,train,Boise,Revenue,2368600
+2015-08-01,train,Boise,Revenue,2218840
+2015-10-01,train,Boise,Revenue,2175680
+2017-05-01,train,Boise,Revenue,2174510
+2014-06-01,train,Boise,Revenue,2148900
+2015-12-01,train,Boise,Revenue,2143050
+2015-06-01,train,Boise,Revenue,2112110
+2017-04-01,train,Boise,Revenue,2054910
+2015-07-01,train,Boise,Revenue,1990040
+2016-06-01,train,Boise,Revenue,1970150
+2017-03-01,train,Boise,Revenue,1959360
+2014-12-01,train,Boise,Revenue,1882660
+2016-07-01,train,Boise,Revenue,1861860
+2014-08-01,train,Boise,Revenue,1856140
+2015-09-01,train,Boise,Revenue,1832740
+2016-08-01,train,Boise,Revenue,1823900
+2015-04-01,train,Boise,Revenue,1749800
+2014-10-01,train,Boise,Revenue,1704820
+2015-05-01,train,Boise,Revenue,1702090
+2014-09-01,train,Boise,Revenue,1666080
+2014-05-01,train,Boise,Revenue,1624350
+2014-11-01,train,Boise,Revenue,1610310
+2017-12-01,test,Boise,Revenue,1532050
+2014-01-01,train,Boise,Revenue,1528930
+2014-03-01,train,Boise,Revenue,1523470
+2016-09-01,train,Boise,Revenue,1516840
+2017-11-01,train,Boise,Revenue,1511120
+2017-10-01,train,Boise,Revenue,1506310
+2017-09-01,train,Boise,Revenue,1480700
+2014-04-01,train,Boise,Revenue,1468220
+2016-05-01,train,Boise,Revenue,1379690
+2016-10-01,train,Boise,Revenue,1375790
+2015-01-01,train,Boise,Revenue,1359410
+2016-03-01,train,Boise,Revenue,1341340
+2016-11-01,train,Boise,Revenue,1335880
+2017-02-01,train,Boise,Revenue,1330810
+2015-03-01,train,Boise,Revenue,1301040
+2014-02-01,train,Boise,Revenue,1285960
+2016-12-01,train,Boise,Revenue,1278810
+2015-11-01,train,Boise,Revenue,1277510
+2015-02-01,train,Boise,Revenue,1245140
+2016-02-01,train,Boise,Revenue,1222130
+2016-04-01,train,Boise,Revenue,1215370
+2016-01-01,train,Boise,Revenue,1211210
+2017-01-01,train,Boise,Revenue,1050530
+2018-01-01,test,Boise,Revenue,697320
+2018-01-01,test,Boise,Sales & Marketing,-107510
+2016-11-01,train,Boise,Sales & Marketing,-109980
+2015-02-01,train,Boise,Sales & Marketing,-118950
+2017-02-01,train,Boise,Sales & Marketing,-120120
+2015-03-01,train,Boise,Sales & Marketing,-126230
+2016-02-01,train,Boise,Sales & Marketing,-130520
+2015-05-01,train,Boise,Sales & Marketing,-131300
+2014-02-01,train,Boise,Sales & Marketing,-133250
+2017-01-01,train,Boise,Sales & Marketing,-135330
+2015-04-01,train,Boise,Sales & Marketing,-135330
+2015-09-01,train,Boise,Sales & Marketing,-143260
+2015-01-01,train,Boise,Sales & Marketing,-143780
+2016-01-01,train,Boise,Sales & Marketing,-144300
+2014-08-01,train,Boise,Sales & Marketing,-144690
+2016-12-01,train,Boise,Sales & Marketing,-144950
+2015-11-01,train,Boise,Sales & Marketing,-145600
+2015-10-01,train,Boise,Sales & Marketing,-155090
+2016-09-01,train,Boise,Sales & Marketing,-155870
+2016-07-01,train,Boise,Sales & Marketing,-157820
+2015-08-01,train,Boise,Sales & Marketing,-158730
+2015-06-01,train,Boise,Sales & Marketing,-160940
+2014-09-01,train,Boise,Sales & Marketing,-161070
+2016-08-01,train,Boise,Sales & Marketing,-162630
+2014-03-01,train,Boise,Sales & Marketing,-164320
+2016-10-01,train,Boise,Sales & Marketing,-165620
+2016-04-01,train,Boise,Sales & Marketing,-167180
+2016-05-01,train,Boise,Sales & Marketing,-173940
+2014-12-01,train,Boise,Sales & Marketing,-176540
+2015-07-01,train,Boise,Sales & Marketing,-177840
+2016-03-01,train,Boise,Sales & Marketing,-187850
+2016-06-01,train,Boise,Sales & Marketing,-188240
+2014-07-01,train,Boise,Sales & Marketing,-202670
+2017-11-01,train,Boise,Sales & Marketing,-207740
+2017-09-01,train,Boise,Sales & Marketing,-210340
+2014-10-01,train,Boise,Sales & Marketing,-212680
+2014-11-01,train,Boise,Sales & Marketing,-215280
+2014-06-01,train,Boise,Sales & Marketing,-219440
+2017-10-01,train,Boise,Sales & Marketing,-223600
+2014-04-01,train,Boise,Sales & Marketing,-229320
+2017-03-01,train,Boise,Sales & Marketing,-234130
+2015-12-01,train,Boise,Sales & Marketing,-235040
+2017-08-01,train,Boise,Sales & Marketing,-244400
+2017-12-01,test,Boise,Sales & Marketing,-248040
+2017-04-01,train,Boise,Sales & Marketing,-254150
+2017-07-01,train,Boise,Sales & Marketing,-268190
+2014-01-01,train,Boise,Sales & Marketing,-286910
+2017-05-01,train,Boise,Sales & Marketing,-344760
+2014-05-01,train,Boise,Sales & Marketing,-401570
+2017-06-01,train,Boise,Sales & Marketing,-422240
+2014-01-01,train,Denver,Cost of goods sold,-319280
+2014-01-01,train,Denver,General & Admin,-95030
+2014-01-01,train,Denver,Revenue,342550
+2014-01-01,train,Denver,Sales & Marketing,-73060
+2014-02-01,train,Denver,Cost of goods sold,-279630
+2014-02-01,train,Denver,General & Admin,-88010
+2014-02-01,train,Denver,Revenue,379080
+2014-02-01,train,Denver,Sales & Marketing,-81120
+2014-03-01,train,Denver,Cost of goods sold,-367380
+2014-03-01,train,Denver,General & Admin,-112840
+2014-03-01,train,Denver,Revenue,465790
+2014-03-01,train,Denver,Sales & Marketing,-89700
+2014-04-01,train,Denver,Cost of goods sold,-549380
+2014-04-01,train,Denver,General & Admin,-148460
+2014-04-01,train,Denver,Revenue,463450
+2014-04-01,train,Denver,Sales & Marketing,-151970
+2014-05-01,train,Denver,Cost of goods sold,-1094860
+2014-05-01,train,Denver,General & Admin,-235430
+2014-05-01,train,Denver,Revenue,1331720
+2014-05-01,train,Denver,Sales & Marketing,-249730
+2014-06-01,train,Denver,Cost of goods sold,-1363050
+2014-06-01,train,Denver,General & Admin,-294710
+2014-06-01,train,Denver,Revenue,1722890
+2014-06-01,train,Denver,Sales & Marketing,-268840
+2014-07-01,train,Denver,Cost of goods sold,-1311570
+2014-07-01,train,Denver,General & Admin,-272610
+2014-07-01,train,Denver,Revenue,1978340
+2014-07-01,train,Denver,Sales & Marketing,-578630
+2014-08-01,train,Denver,Cost of goods sold,-1078350
+2014-08-01,train,Denver,General & Admin,-255450
+2014-08-01,train,Denver,Revenue,1950130
+2014-08-01,train,Denver,Sales & Marketing,-581750
+2014-09-01,train,Denver,Cost of goods sold,-1077960
+2014-09-01,train,Denver,General & Admin,-245830
+2014-09-01,train,Denver,Revenue,1884870
+2014-09-01,train,Denver,Sales & Marketing,-566930
+2014-10-01,train,Denver,Cost of goods sold,-936780
+2014-10-01,train,Denver,General & Admin,-267020
+2014-10-01,train,Denver,Revenue,1711710
+2014-10-01,train,Denver,Sales & Marketing,-620360
+2014-11-01,train,Denver,Cost of goods sold,-784550
+2014-11-01,train,Denver,General & Admin,-196170
+2014-11-01,train,Denver,Revenue,1078610
+2014-11-01,train,Denver,Sales & Marketing,-307710
+2014-12-01,train,Denver,Cost of goods sold,-733720
+2014-12-01,train,Denver,General & Admin,-279500
+2014-12-01,train,Denver,Revenue,1868880
+2014-12-01,train,Denver,Sales & Marketing,-609700
+2015-01-01,train,Denver,Cost of goods sold,-761020
+2015-01-01,train,Denver,General & Admin,-201240
+2015-01-01,train,Denver,Revenue,1050010
+2015-01-01,train,Denver,Sales & Marketing,-307060
+2015-02-01,train,Denver,Cost of goods sold,-645450
+2015-02-01,train,Denver,General & Admin,-200850
+2015-02-01,train,Denver,Revenue,949260
+2015-02-01,train,Denver,Sales & Marketing,-279110
+2015-03-01,train,Denver,Cost of goods sold,-814580
+2015-03-01,train,Denver,General & Admin,-210860
+2015-03-01,train,Denver,Revenue,1471080
+2015-03-01,train,Denver,Sales & Marketing,-566280
+2015-04-01,train,Denver,Cost of goods sold,-843960
+2015-04-01,train,Denver,General & Admin,-230620
+2015-04-01,train,Denver,Revenue,1340820
+2015-04-01,train,Denver,Sales & Marketing,-511420
+2015-05-01,train,Denver,Cost of goods sold,-1003210
+2015-05-01,train,Denver,General & Admin,-258830
+2015-05-01,train,Denver,Revenue,1549340
+2015-05-01,train,Denver,Sales & Marketing,-412490
+2015-06-01,train,Denver,Cost of goods sold,-1212250
+2015-06-01,train,Denver,General & Admin,-274430
+2015-06-01,train,Denver,Revenue,1916980
+2015-06-01,train,Denver,Sales & Marketing,-418730
+2015-07-01,train,Denver,Cost of goods sold,-1302600
+2015-07-01,train,Denver,General & Admin,-291070
+2015-07-01,train,Denver,Revenue,2264730
+2015-07-01,train,Denver,Sales & Marketing,-597220
+2015-08-01,train,Denver,Cost of goods sold,-1144780
+2015-08-01,train,Denver,General & Admin,-236860
+2015-08-01,train,Denver,Revenue,1821170
+2015-08-01,train,Denver,Sales & Marketing,-414440
+2015-09-01,train,Denver,Cost of goods sold,-1090570
+2015-09-01,train,Denver,General & Admin,-242970
+2015-09-01,train,Denver,Revenue,1698060
+2015-09-01,train,Denver,Sales & Marketing,-371930
+2015-10-01,train,Denver,Cost of goods sold,-1206010
+2015-10-01,train,Denver,General & Admin,-244400
+2015-10-01,train,Denver,Revenue,1839500
+2015-10-01,train,Denver,Sales & Marketing,-371020
+2015-11-01,train,Denver,Cost of goods sold,-843830
+2015-11-01,train,Denver,General & Admin,-237250
+2015-11-01,train,Denver,Revenue,1268150
+2015-11-01,train,Denver,Sales & Marketing,-347750
+2015-12-01,train,Denver,Cost of goods sold,-808340
+2015-12-01,train,Denver,General & Admin,-310180
+2015-12-01,train,Denver,Revenue,2107690
+2015-12-01,train,Denver,Sales & Marketing,-791440
+2016-01-01,train,Denver,Cost of goods sold,-829400
+2016-01-01,train,Denver,General & Admin,-176670
+2016-01-01,train,Denver,Revenue,970710
+2016-01-01,train,Denver,Sales & Marketing,-156780
+2016-02-01,train,Denver,Cost of goods sold,-818350
+2016-02-01,train,Denver,General & Admin,-154960
+2016-02-01,train,Denver,Revenue,1011920
+2016-02-01,train,Denver,Sales & Marketing,-186030
+2016-03-01,train,Denver,Cost of goods sold,-804830
+2016-03-01,train,Denver,General & Admin,-203320
+2016-03-01,train,Denver,Revenue,1319890
+2016-03-01,train,Denver,Sales & Marketing,-460200
+2016-04-01,train,Denver,Cost of goods sold,-848900
+2016-04-01,train,Denver,General & Admin,-222170
+2016-04-01,train,Denver,Revenue,1136980
+2016-04-01,train,Denver,Sales & Marketing,-218010
+2016-05-01,train,Denver,Cost of goods sold,-999310
+2016-05-01,train,Denver,General & Admin,-200590
+2016-05-01,train,Denver,Revenue,1446770
+2016-05-01,train,Denver,Sales & Marketing,-412880
+2016-06-01,train,Denver,Cost of goods sold,-1143740
+2016-06-01,train,Denver,General & Admin,-244140
+2016-06-01,train,Denver,Revenue,1945450
+2016-06-01,train,Denver,Sales & Marketing,-490620
+2016-07-01,train,Denver,Cost of goods sold,-1048190
+2016-07-01,train,Denver,General & Admin,-215930
+2016-07-01,train,Denver,Revenue,1527240
+2016-07-01,train,Denver,Sales & Marketing,-375830
+2016-08-01,train,Denver,Cost of goods sold,-1186900
+2016-08-01,train,Denver,General & Admin,-234520
+2016-08-01,train,Denver,Revenue,1993810
+2016-08-01,train,Denver,Sales & Marketing,-445770
+2016-09-01,train,Denver,Cost of goods sold,-863330
+2016-09-01,train,Denver,General & Admin,-224380
+2016-09-01,train,Denver,Revenue,1483430
+2016-09-01,train,Denver,Sales & Marketing,-433160
+2016-10-01,train,Denver,Cost of goods sold,-823420
+2016-10-01,train,Denver,General & Admin,-189280
+2016-10-01,train,Denver,Revenue,1253330
+2016-10-01,train,Denver,Sales & Marketing,-228410
+2016-11-01,train,Denver,Cost of goods sold,-850720
+2016-11-01,train,Denver,General & Admin,-211380
+2016-11-01,train,Denver,Revenue,1640210
+2016-11-01,train,Denver,Sales & Marketing,-479830
+2016-12-01,train,Denver,Cost of goods sold,-789360
+2016-12-01,train,Denver,General & Admin,-233870
+2016-12-01,train,Denver,Revenue,1885390
+2016-12-01,train,Denver,Sales & Marketing,-562770
+2017-01-01,train,Denver,Cost of goods sold,-645320
+2017-01-01,train,Denver,General & Admin,-174070
+2017-01-01,train,Denver,Revenue,785590
+2017-01-01,train,Denver,Sales & Marketing,-144300
+2017-02-01,train,Denver,Cost of goods sold,-683930
+2017-02-01,train,Denver,General & Admin,-181610
+2017-02-01,train,Denver,Revenue,1119820
+2017-02-01,train,Denver,Sales & Marketing,-509210
+2017-03-01,train,Denver,Cost of goods sold,-716430
+2017-03-01,train,Denver,General & Admin,-200720
+2017-03-01,train,Denver,Revenue,1056250
+2017-03-01,train,Denver,Sales & Marketing,-412360
+2017-04-01,train,Denver,Cost of goods sold,-702260
+2017-04-01,train,Denver,General & Admin,-177580
+2017-04-01,train,Denver,Revenue,1250600
+2017-04-01,train,Denver,Sales & Marketing,-489710
+2017-05-01,train,Denver,Cost of goods sold,-797290
+2017-05-01,train,Denver,General & Admin,-178880
+2017-05-01,train,Denver,Revenue,1260740
+2017-05-01,train,Denver,Sales & Marketing,-371280
+2017-06-01,train,Denver,Cost of goods sold,-1025180
+2017-06-01,train,Denver,General & Admin,-204100
+2017-06-01,train,Denver,Revenue,1771250
+2017-06-01,train,Denver,Sales & Marketing,-402350
+2017-07-01,train,Denver,Cost of goods sold,-961220
+2017-07-01,train,Denver,General & Admin,-196300
+2017-07-01,train,Denver,Revenue,1818440
+2017-07-01,train,Denver,Sales & Marketing,-526890
+2017-08-01,train,Denver,Cost of goods sold,-1019850
+2017-08-01,train,Denver,General & Admin,-201760
+2017-08-01,train,Denver,Revenue,1863940
+2017-08-01,train,Denver,Sales & Marketing,-572650
+2017-09-01,train,Denver,Cost of goods sold,-936000
+2017-09-01,train,Denver,General & Admin,-200460
+2017-09-01,train,Denver,Revenue,1574430
+2017-09-01,train,Denver,Sales & Marketing,-371020
+2017-10-01,train,Denver,Cost of goods sold,-833560
+2017-10-01,train,Denver,General & Admin,-213980
+2017-10-01,train,Denver,Revenue,1356810
+2017-10-01,train,Denver,Sales & Marketing,-328250
+2017-11-01,train,Denver,Cost of goods sold,-788970
+2017-11-01,train,Denver,General & Admin,-215410
+2017-11-01,train,Denver,Revenue,1149460
+2017-11-01,train,Denver,Sales & Marketing,-248170
+2017-12-01,test,Denver,Cost of goods sold,-599040
+2017-12-01,test,Denver,General & Admin,-355030
+2017-12-01,test,Denver,Revenue,1362400
+2017-12-01,test,Denver,Sales & Marketing,-394290
+2018-01-01,test,Denver,Cost of goods sold,-345150
+2018-01-01,test,Denver,General & Admin,-134550
+2018-01-01,test,Denver,Revenue,477230
+2018-01-01,test,Denver,Sales & Marketing,-165880
+2014-01-01,train,Las Vegas,Cost of goods sold,-470600
+2014-01-01,train,Las Vegas,General & Admin,-145860
+2014-01-01,train,Las Vegas,Revenue,517920
+2014-01-01,train,Las Vegas,Sales & Marketing,-66820
+2014-02-01,train,Las Vegas,Cost of goods sold,-522470
+2014-02-01,train,Las Vegas,General & Admin,-165230
+2014-02-01,train,Las Vegas,Revenue,495820
+2014-02-01,train,Las Vegas,Sales & Marketing,-68510
+2014-03-01,train,Las Vegas,Cost of goods sold,-512590
+2014-03-01,train,Las Vegas,General & Admin,-186550
+2014-03-01,train,Las Vegas,Revenue,696930
+2014-03-01,train,Las Vegas,Sales & Marketing,-95160
+2014-04-01,train,Las Vegas,Cost of goods sold,-586690
+2014-04-01,train,Las Vegas,General & Admin,-191230
+2014-04-01,train,Las Vegas,Revenue,550290
+2014-04-01,train,Las Vegas,Sales & Marketing,-91910
+2014-05-01,train,Las Vegas,Cost of goods sold,-642590
+2014-05-01,train,Las Vegas,General & Admin,-221390
+2014-05-01,train,Las Vegas,Revenue,786890
+2014-05-01,train,Las Vegas,Sales & Marketing,-71760
+2014-06-01,train,Las Vegas,Cost of goods sold,-750360
+2014-06-01,train,Las Vegas,General & Admin,-211510
+2014-06-01,train,Las Vegas,Revenue,934570
+2014-06-01,train,Las Vegas,Sales & Marketing,-22880
+2014-07-01,train,Las Vegas,Cost of goods sold,-911040
+2014-07-01,train,Las Vegas,General & Admin,-221390
+2014-07-01,train,Las Vegas,Revenue,1218230
+2014-07-01,train,Las Vegas,Sales & Marketing,-86060
+2014-08-01,train,Las Vegas,Cost of goods sold,-913640
+2014-08-01,train,Las Vegas,General & Admin,-235300
+2014-08-01,train,Las Vegas,Revenue,1134640
+2014-08-01,train,Las Vegas,Sales & Marketing,-64220
+2014-09-01,train,Las Vegas,Cost of goods sold,-736060
+2014-09-01,train,Las Vegas,General & Admin,-219960
+2014-09-01,train,Las Vegas,Revenue,1016860
+2014-09-01,train,Las Vegas,Sales & Marketing,-47190
+2014-10-01,train,Las Vegas,Cost of goods sold,-786500
+2014-10-01,train,Las Vegas,General & Admin,-224380
+2014-10-01,train,Las Vegas,Revenue,1130480
+2014-10-01,train,Las Vegas,Sales & Marketing,-90350
+2014-11-01,train,Las Vegas,Cost of goods sold,-586820
+2014-11-01,train,Las Vegas,General & Admin,-189150
+2014-11-01,train,Las Vegas,Revenue,660920
+2014-11-01,train,Las Vegas,Sales & Marketing,-78260
+2014-12-01,train,Las Vegas,Cost of goods sold,-665080
+2014-12-01,train,Las Vegas,General & Admin,-217100
+2014-12-01,train,Las Vegas,Revenue,1121770
+2014-12-01,train,Las Vegas,Sales & Marketing,-77480
+2015-01-01,train,Las Vegas,Cost of goods sold,-560040
+2015-01-01,train,Las Vegas,General & Admin,-158990
+2015-01-01,train,Las Vegas,Revenue,650130
+2015-01-01,train,Las Vegas,Sales & Marketing,-37960
+2015-02-01,train,Las Vegas,Cost of goods sold,-490100
+2015-02-01,train,Las Vegas,General & Admin,-126750
+2015-02-01,train,Las Vegas,Revenue,686530
+2015-02-01,train,Las Vegas,Sales & Marketing,-91000
+2015-03-01,train,Las Vegas,Cost of goods sold,-674830
+2015-03-01,train,Las Vegas,General & Admin,-162760
+2015-03-01,train,Las Vegas,Revenue,778570
+2015-03-01,train,Las Vegas,Sales & Marketing,-120510
+2015-04-01,train,Las Vegas,Cost of goods sold,-643370
+2015-04-01,train,Las Vegas,General & Admin,-178750
+2015-04-01,train,Las Vegas,Revenue,869440
+2015-04-01,train,Las Vegas,Sales & Marketing,-111410
+2015-05-01,train,Las Vegas,Cost of goods sold,-708110
+2015-05-01,train,Las Vegas,General & Admin,-163410
+2015-05-01,train,Las Vegas,Revenue,755040
+2015-05-01,train,Las Vegas,Sales & Marketing,-64610
+2015-06-01,train,Las Vegas,Cost of goods sold,-1003600
+2015-06-01,train,Las Vegas,General & Admin,-278980
+2015-06-01,train,Las Vegas,Revenue,1382810
+2015-06-01,train,Las Vegas,Sales & Marketing,-116220
+2015-07-01,train,Las Vegas,Cost of goods sold,-1079260
+2015-07-01,train,Las Vegas,General & Admin,-215800
+2015-07-01,train,Las Vegas,Revenue,1250080
+2015-07-01,train,Las Vegas,Sales & Marketing,-84500
+2015-08-01,train,Las Vegas,Cost of goods sold,-974610
+2015-08-01,train,Las Vegas,General & Admin,-210860
+2015-08-01,train,Las Vegas,Revenue,1368120
+2015-08-01,train,Las Vegas,Sales & Marketing,-92690
+2015-09-01,train,Las Vegas,Cost of goods sold,-811590
+2015-09-01,train,Las Vegas,General & Admin,-246480
+2015-09-01,train,Las Vegas,Revenue,934700
+2015-09-01,train,Las Vegas,Sales & Marketing,-91130
+2015-10-01,train,Las Vegas,Cost of goods sold,-879450
+2015-10-01,train,Las Vegas,General & Admin,-187590
+2015-10-01,train,Las Vegas,Revenue,1057290
+2015-10-01,train,Las Vegas,Sales & Marketing,-137410
+2015-11-01,train,Las Vegas,Cost of goods sold,-647920
+2015-11-01,train,Las Vegas,General & Admin,-150540
+2015-11-01,train,Las Vegas,Revenue,743990
+2015-11-01,train,Las Vegas,Sales & Marketing,-121420
+2015-12-01,train,Las Vegas,Cost of goods sold,-551590
+2015-12-01,train,Las Vegas,General & Admin,-226070
+2015-12-01,train,Las Vegas,Revenue,835770
+2015-12-01,train,Las Vegas,Sales & Marketing,-95940
+2016-01-01,train,Las Vegas,Cost of goods sold,-547690
+2016-01-01,train,Las Vegas,General & Admin,-132080
+2016-01-01,train,Las Vegas,Revenue,485680
+2016-01-01,train,Las Vegas,Sales & Marketing,-57720
+2016-02-01,train,Las Vegas,Cost of goods sold,-677560
+2016-02-01,train,Las Vegas,General & Admin,-132080
+2016-02-01,train,Las Vegas,Revenue,802230
+2016-02-01,train,Las Vegas,Sales & Marketing,-77090
+2016-03-01,train,Las Vegas,Cost of goods sold,-661570
+2016-03-01,train,Las Vegas,General & Admin,-150410
+2016-03-01,train,Las Vegas,Revenue,770770
+2016-03-01,train,Las Vegas,Sales & Marketing,-79690
+2016-04-01,train,Las Vegas,Cost of goods sold,-600600
+2016-04-01,train,Las Vegas,General & Admin,-147420
+2016-04-01,train,Las Vegas,Revenue,686400
+2016-04-01,train,Las Vegas,Sales & Marketing,-79820
+2016-05-01,train,Las Vegas,Cost of goods sold,-793650
+2016-05-01,train,Las Vegas,General & Admin,-162890
+2016-05-01,train,Las Vegas,Revenue,914160
+2016-05-01,train,Las Vegas,Sales & Marketing,-99970
+2016-06-01,train,Las Vegas,Cost of goods sold,-849290
+2016-06-01,train,Las Vegas,General & Admin,-167440
+2016-06-01,train,Las Vegas,Revenue,1011660
+2016-06-01,train,Las Vegas,Sales & Marketing,-91390
+2016-07-01,train,Las Vegas,Cost of goods sold,-1019850
+2016-07-01,train,Las Vegas,General & Admin,-193180
+2016-07-01,train,Las Vegas,Revenue,1162200
+2016-07-01,train,Las Vegas,Sales & Marketing,-117520
+2016-08-01,train,Las Vegas,Cost of goods sold,-839540
+2016-08-01,train,Las Vegas,General & Admin,-184730
+2016-08-01,train,Las Vegas,Revenue,956670
+2016-08-01,train,Las Vegas,Sales & Marketing,-91650
+2016-09-01,train,Las Vegas,Cost of goods sold,-874770
+2016-09-01,train,Las Vegas,General & Admin,-219440
+2016-09-01,train,Las Vegas,Revenue,1063140
+2016-09-01,train,Las Vegas,Sales & Marketing,-96200
+2016-10-01,train,Las Vegas,Cost of goods sold,-838370
+2016-10-01,train,Las Vegas,General & Admin,-145730
+2016-10-01,train,Las Vegas,Revenue,1027650
+2016-10-01,train,Las Vegas,Sales & Marketing,-80210
+2016-11-01,train,Las Vegas,Cost of goods sold,-824980
+2016-11-01,train,Las Vegas,General & Admin,-179270
+2016-11-01,train,Las Vegas,Revenue,1035190
+2016-11-01,train,Las Vegas,Sales & Marketing,-108940
+2016-12-01,train,Las Vegas,Cost of goods sold,-609050
+2016-12-01,train,Las Vegas,General & Admin,-102830
+2016-12-01,train,Las Vegas,Revenue,898560
+2016-12-01,train,Las Vegas,Sales & Marketing,-58370
+2017-01-01,train,Las Vegas,Cost of goods sold,-515840
+2017-01-01,train,Las Vegas,General & Admin,-168350
+2017-01-01,train,Las Vegas,Revenue,488930
+2017-01-01,train,Las Vegas,Sales & Marketing,-43940
+2017-02-01,train,Las Vegas,Cost of goods sold,-543660
+2017-02-01,train,Las Vegas,General & Admin,-165620
+2017-02-01,train,Las Vegas,Revenue,546390
+2017-02-01,train,Las Vegas,Sales & Marketing,-34840
+2017-03-01,train,Las Vegas,Cost of goods sold,-609570
+2017-03-01,train,Las Vegas,General & Admin,-189800
+2017-03-01,train,Las Vegas,Revenue,704080
+2017-03-01,train,Las Vegas,Sales & Marketing,-81380
+2017-04-01,train,Las Vegas,Cost of goods sold,-758030
+2017-04-01,train,Las Vegas,General & Admin,-134030
+2017-04-01,train,Las Vegas,Revenue,856570
+2017-04-01,train,Las Vegas,Sales & Marketing,-98930
+2017-05-01,train,Las Vegas,Cost of goods sold,-1383720
+2017-05-01,train,Las Vegas,General & Admin,-193830
+2017-05-01,train,Las Vegas,Revenue,1838980
+2017-05-01,train,Las Vegas,Sales & Marketing,-227370
+2017-06-01,train,Las Vegas,Cost of goods sold,-1331850
+2017-06-01,train,Las Vegas,General & Admin,-159770
+2017-06-01,train,Las Vegas,Revenue,1685580
+2017-06-01,train,Las Vegas,Sales & Marketing,-150670
+2017-07-01,train,Las Vegas,Cost of goods sold,-1433250
+2017-07-01,train,Las Vegas,General & Admin,-201240
+2017-07-01,train,Las Vegas,Revenue,1850290
+2017-07-01,train,Las Vegas,Sales & Marketing,-131430
+2017-08-01,train,Las Vegas,Cost of goods sold,-1316510
+2017-08-01,train,Las Vegas,General & Admin,-135590
+2017-08-01,train,Las Vegas,Revenue,1684930
+2017-08-01,train,Las Vegas,Sales & Marketing,-139620
+2017-09-01,train,Las Vegas,Cost of goods sold,-890500
+2017-09-01,train,Las Vegas,General & Admin,-183430
+2017-09-01,train,Las Vegas,Revenue,1152320
+2017-09-01,train,Las Vegas,Sales & Marketing,-111020
+2017-10-01,train,Las Vegas,Cost of goods sold,-1048450
+2017-10-01,train,Las Vegas,General & Admin,-186810
+2017-10-01,train,Las Vegas,Revenue,1525030
+2017-10-01,train,Las Vegas,Sales & Marketing,-132990
+2017-11-01,train,Las Vegas,Cost of goods sold,-1081990
+2017-11-01,train,Las Vegas,General & Admin,-187200
+2017-11-01,train,Las Vegas,Revenue,1247480
+2017-11-01,train,Las Vegas,Sales & Marketing,-124150
+2017-12-01,test,Las Vegas,Cost of goods sold,-1029860
+2017-12-01,test,Las Vegas,General & Admin,-169780
+2017-12-01,test,Las Vegas,Revenue,1501630
+2017-12-01,test,Las Vegas,Sales & Marketing,-195780
+2018-01-01,test,Las Vegas,Cost of goods sold,-928720
+2018-01-01,test,Las Vegas,General & Admin,-181870
+2018-01-01,test,Las Vegas,Revenue,1179620
+2018-01-01,test,Las Vegas,Sales & Marketing,-140270
+2014-01-01,train,Olympia,Cost of goods sold,-965120
+2014-01-01,train,Olympia,General & Admin,-195780
+2014-01-01,train,Olympia,Revenue,1275950
+2014-01-01,train,Olympia,Sales & Marketing,-168870
+2014-02-01,train,Olympia,Cost of goods sold,-982280
+2014-02-01,train,Olympia,General & Admin,-221780
+2014-02-01,train,Olympia,Revenue,1311180
+2014-02-01,train,Olympia,Sales & Marketing,-135070
+2014-03-01,train,Olympia,Cost of goods sold,-1157130
+2014-03-01,train,Olympia,General & Admin,-230230
+2014-03-01,train,Olympia,Revenue,1550900
+2014-03-01,train,Olympia,Sales & Marketing,-141570
+2014-04-01,train,Olympia,Cost of goods sold,-1190280
+2014-04-01,train,Olympia,General & Admin,-213720
+2014-04-01,train,Olympia,Revenue,1608230
+2014-04-01,train,Olympia,Sales & Marketing,-161200
+2014-05-01,train,Olympia,Cost of goods sold,-1221480
+2014-05-01,train,Olympia,General & Admin,-243880
+2014-05-01,train,Olympia,Revenue,1579500
+2014-05-01,train,Olympia,Sales & Marketing,-147940
+2014-06-01,train,Olympia,Cost of goods sold,-1503580
+2014-06-01,train,Olympia,General & Admin,-258180
+2014-06-01,train,Olympia,Revenue,2111590
+2014-06-01,train,Olympia,Sales & Marketing,-244530
+2014-07-01,train,Olympia,Cost of goods sold,-1475110
+2014-07-01,train,Olympia,General & Admin,-248690
+2014-07-01,train,Olympia,Revenue,2147730
+2014-07-01,train,Olympia,Sales & Marketing,-240760
+2014-08-01,train,Olympia,Cost of goods sold,-1434940
+2014-08-01,train,Olympia,General & Admin,-251810
+2014-08-01,train,Olympia,Revenue,2089750
+2014-08-01,train,Olympia,Sales & Marketing,-208390
+2014-09-01,train,Olympia,Cost of goods sold,-1273610
+2014-09-01,train,Olympia,General & Admin,-227760
+2014-09-01,train,Olympia,Revenue,1823640
+2014-09-01,train,Olympia,Sales & Marketing,-124150
+2014-10-01,train,Olympia,Cost of goods sold,-1242150
+2014-10-01,train,Olympia,General & Admin,-236990
+2014-10-01,train,Olympia,Revenue,1771770
+2014-10-01,train,Olympia,Sales & Marketing,-166400
+2014-11-01,train,Olympia,Cost of goods sold,-903110
+2014-11-01,train,Olympia,General & Admin,-188370
+2014-11-01,train,Olympia,Revenue,1207050
+2014-11-01,train,Olympia,Sales & Marketing,-141700
+2014-12-01,train,Olympia,Cost of goods sold,-922740
+2014-12-01,train,Olympia,General & Admin,-212290
+2014-12-01,train,Olympia,Revenue,1759680
+2014-12-01,train,Olympia,Sales & Marketing,-249340
+2015-01-01,train,Olympia,Cost of goods sold,-942240
+2015-01-01,train,Olympia,General & Admin,-163280
+2015-01-01,train,Olympia,Revenue,1266200
+2015-01-01,train,Olympia,Sales & Marketing,-208130
+2015-02-01,train,Olympia,Cost of goods sold,-934310
+2015-02-01,train,Olympia,General & Admin,-186290
+2015-02-01,train,Olympia,Revenue,1119300
+2015-02-01,train,Olympia,Sales & Marketing,-194610
+2015-03-01,train,Olympia,Cost of goods sold,-1092260
+2015-03-01,train,Olympia,General & Admin,-188630
+2015-03-01,train,Olympia,Revenue,1231490
+2015-03-01,train,Olympia,Sales & Marketing,-222170
+2015-04-01,train,Olympia,Cost of goods sold,-1116570
+2015-04-01,train,Olympia,General & Admin,-213850
+2015-04-01,train,Olympia,Revenue,1315730
+2015-04-01,train,Olympia,Sales & Marketing,-243880
+2015-05-01,train,Olympia,Cost of goods sold,-1101100
+2015-05-01,train,Olympia,General & Admin,-198510
+2015-05-01,train,Olympia,Revenue,1471990
+2015-05-01,train,Olympia,Sales & Marketing,-221650
+2015-06-01,train,Olympia,Cost of goods sold,-1451450
+2015-06-01,train,Olympia,General & Admin,-219310
+2015-06-01,train,Olympia,Revenue,1985490
+2015-06-01,train,Olympia,Sales & Marketing,-265720
+2015-07-01,train,Olympia,Cost of goods sold,-1571570
+2015-07-01,train,Olympia,General & Admin,-257140
+2015-07-01,train,Olympia,Revenue,2175160
+2015-07-01,train,Olympia,Sales & Marketing,-297960
+2015-08-01,train,Olympia,Cost of goods sold,-1367470
+2015-08-01,train,Olympia,General & Admin,-225290
+2015-08-01,train,Olympia,Revenue,1965990
+2015-08-01,train,Olympia,Sales & Marketing,-256230
+2015-09-01,train,Olympia,Cost of goods sold,-1255280
+2015-09-01,train,Olympia,General & Admin,-226200
+2015-09-01,train,Olympia,Revenue,1618630
+2015-09-01,train,Olympia,Sales & Marketing,-184860
+2015-10-01,train,Olympia,Cost of goods sold,-1223040
+2015-10-01,train,Olympia,General & Admin,-236340
+2015-10-01,train,Olympia,Revenue,1627340
+2015-10-01,train,Olympia,Sales & Marketing,-179140
+2015-11-01,train,Olympia,Cost of goods sold,-990730
+2015-11-01,train,Olympia,General & Admin,-188630
+2015-11-01,train,Olympia,Revenue,1378260
+2015-11-01,train,Olympia,Sales & Marketing,-178100
+2015-12-01,train,Olympia,Cost of goods sold,-938210
+2015-12-01,train,Olympia,General & Admin,-319410
+2015-12-01,train,Olympia,Revenue,1930240
+2015-12-01,train,Olympia,Sales & Marketing,-244790
+2016-01-01,train,Olympia,Cost of goods sold,-839150
+2016-01-01,train,Olympia,General & Admin,-176150
+2016-01-01,train,Olympia,Revenue,1147770
+2016-01-01,train,Olympia,Sales & Marketing,-154440
+2016-02-01,train,Olympia,Cost of goods sold,-901940
+2016-02-01,train,Olympia,General & Admin,-199550
+2016-02-01,train,Olympia,Revenue,1175460
+2016-02-01,train,Olympia,Sales & Marketing,-145730
+2016-03-01,train,Olympia,Cost of goods sold,-989300
+2016-03-01,train,Olympia,General & Admin,-290940
+2016-03-01,train,Olympia,Revenue,1331330
+2016-03-01,train,Olympia,Sales & Marketing,-157300
+2016-04-01,train,Olympia,Cost of goods sold,-897650
+2016-04-01,train,Olympia,General & Admin,-198380
+2016-04-01,train,Olympia,Revenue,1216280
+2016-04-01,train,Olympia,Sales & Marketing,-162500
+2016-05-01,train,Olympia,Cost of goods sold,-970450
+2016-05-01,train,Olympia,General & Admin,-202020
+2016-05-01,train,Olympia,Revenue,1373840
+2016-05-01,train,Olympia,Sales & Marketing,-231400
+2016-06-01,train,Olympia,Cost of goods sold,-1090440
+2016-06-01,train,Olympia,General & Admin,-174720
+2016-06-01,train,Olympia,Revenue,1619800
+2016-06-01,train,Olympia,Sales & Marketing,-307970
+2016-07-01,train,Olympia,Cost of goods sold,-1136070
+2016-07-01,train,Olympia,General & Admin,-166530
+2016-07-01,train,Olympia,Revenue,1491750
+2016-07-01,train,Olympia,Sales & Marketing,-265590
+2016-08-01,train,Olympia,Cost of goods sold,-1214200
+2016-08-01,train,Olympia,General & Admin,-227760
+2016-08-01,train,Olympia,Revenue,1729390
+2016-08-01,train,Olympia,Sales & Marketing,-233350
+2016-09-01,train,Olympia,Cost of goods sold,-1023750
+2016-09-01,train,Olympia,General & Admin,-212030
+2016-09-01,train,Olympia,Revenue,1455480
+2016-09-01,train,Olympia,Sales & Marketing,-229970
+2016-10-01,train,Olympia,Cost of goods sold,-895050
+2016-10-01,train,Olympia,General & Admin,-179400
+2016-10-01,train,Olympia,Revenue,1334840
+2016-10-01,train,Olympia,Sales & Marketing,-189020
+2016-11-01,train,Olympia,Cost of goods sold,-920400
+2016-11-01,train,Olympia,General & Admin,-196690
+2016-11-01,train,Olympia,Revenue,1189630
+2016-11-01,train,Olympia,Sales & Marketing,-180050
+2016-12-01,train,Olympia,Cost of goods sold,-649220
+2016-12-01,train,Olympia,General & Admin,-185250
+2016-12-01,train,Olympia,Revenue,1656590
+2016-12-01,train,Olympia,Sales & Marketing,-209560
+2017-01-01,train,Olympia,Cost of goods sold,-707070
+2017-01-01,train,Olympia,General & Admin,-200460
+2017-01-01,train,Olympia,Revenue,867230
+2017-01-01,train,Olympia,Sales & Marketing,-173550
+2017-02-01,train,Olympia,Cost of goods sold,-730600
+2017-02-01,train,Olympia,General & Admin,-181350
+2017-02-01,train,Olympia,Revenue,933010
+2017-02-01,train,Olympia,Sales & Marketing,-136240
+2017-03-01,train,Olympia,Cost of goods sold,-964730
+2017-03-01,train,Olympia,General & Admin,-183170
+2017-03-01,train,Olympia,Revenue,1100970
+2017-03-01,train,Olympia,Sales & Marketing,-258700
+2017-04-01,train,Olympia,Cost of goods sold,-1119300
+2017-04-01,train,Olympia,General & Admin,-248430
+2017-04-01,train,Olympia,Revenue,1693640
+2017-04-01,train,Olympia,Sales & Marketing,-354120
+2017-05-01,train,Olympia,Cost of goods sold,-1403870
+2017-05-01,train,Olympia,General & Admin,-270400
+2017-05-01,train,Olympia,Revenue,2304510
+2017-05-01,train,Olympia,Sales & Marketing,-475930
+2017-06-01,train,Olympia,Cost of goods sold,-1938690
+2017-06-01,train,Olympia,General & Admin,-356980
+2017-06-01,train,Olympia,Revenue,3408600
+2017-06-01,train,Olympia,Sales & Marketing,-643890
+2017-07-01,train,Olympia,Cost of goods sold,-2097810
+2017-07-01,train,Olympia,General & Admin,-344760
+2017-07-01,train,Olympia,Revenue,3164980
+2017-07-01,train,Olympia,Sales & Marketing,-533130
+2017-08-01,train,Olympia,Cost of goods sold,-2326870
+2017-08-01,train,Olympia,General & Admin,-371800
+2017-08-01,train,Olympia,Revenue,3572010
+2017-08-01,train,Olympia,Sales & Marketing,-555880
+2017-09-01,train,Olympia,Cost of goods sold,-1631240
+2017-09-01,train,Olympia,General & Admin,-314990
+2017-09-01,train,Olympia,Revenue,2261740
+2017-09-01,train,Olympia,Sales & Marketing,-413660
+2017-10-01,train,Olympia,Cost of goods sold,-1911000
+2017-10-01,train,Olympia,General & Admin,-354770
+2017-10-01,train,Olympia,Revenue,3035760
+2017-10-01,train,Olympia,Sales & Marketing,-687050
+2017-11-01,train,Olympia,Cost of goods sold,-1744730
+2017-11-01,train,Olympia,General & Admin,-337610
+2017-11-01,train,Olympia,Revenue,2596880
+2017-11-01,train,Olympia,Sales & Marketing,-647010
+2017-12-01,test,Olympia,Cost of goods sold,-1613690
+2017-12-01,test,Olympia,General & Admin,-373100
+2017-12-01,test,Olympia,Revenue,3276260
+2017-12-01,test,Olympia,Sales & Marketing,-850070
+2018-01-01,test,Olympia,Cost of goods sold,-1765270
+2018-01-01,test,Olympia,General & Admin,-361140
+2018-01-01,test,Olympia,Revenue,2612740
+2018-01-01,test,Olympia,Sales & Marketing,-549770
+2016-04-01,train,Salt Lake City,Sales & Marketing,-1292400
+2015-05-01,train,Salt Lake City,Sales & Marketing,-1312870
+2014-05-01,train,Salt Lake City,Sales & Marketing,-1179100
+2014-04-01,train,Salt Lake City,Sales & Marketing,-1098630
+2015-06-01,train,Salt Lake City,Sales & Marketing,-1091090
+2014-12-01,train,Salt Lake City,Sales & Marketing,-1089920
+2014-09-01,train,Salt Lake City,Sales & Marketing,-1084850
+2015-03-01,train,Salt Lake City,Sales & Marketing,-1038050
+2015-10-01,train,Salt Lake City,Sales & Marketing,-1035840
+2016-03-01,train,Salt Lake City,Sales & Marketing,-1018680
+2015-09-01,train,Salt Lake City,Sales & Marketing,-1015820
+2015-04-01,train,Salt Lake City,Sales & Marketing,-996320
+2014-10-01,train,Salt Lake City,Sales & Marketing,-952900
+2015-12-01,train,Salt Lake City,Sales & Marketing,-930930
+2015-11-01,train,Salt Lake City,Sales & Marketing,-916240
+2014-07-01,train,Salt Lake City,Sales & Marketing,-912340
+2014-11-01,train,Salt Lake City,Sales & Marketing,-894270
+2015-02-01,train,Salt Lake City,Sales & Marketing,-883740
+2014-03-01,train,Salt Lake City,Sales & Marketing,-878020
+2015-08-01,train,Salt Lake City,Sales & Marketing,-875030
+2014-08-01,train,Salt Lake City,Sales & Marketing,-836160
+2014-02-01,train,Salt Lake City,Sales & Marketing,-830050
+2014-06-01,train,Salt Lake City,Sales & Marketing,-821080
+2015-07-01,train,Salt Lake City,Sales & Marketing,-772590
+2016-01-01,train,Salt Lake City,Sales & Marketing,-743470
+2016-02-01,train,Salt Lake City,Sales & Marketing,-720460
+2014-01-01,train,Salt Lake City,Sales & Marketing,-701870
+2015-01-01,train,Salt Lake City,Sales & Marketing,-692510
+2016-06-01,train,Salt Lake City,Sales & Marketing,-679120
+2016-05-01,train,Salt Lake City,Sales & Marketing,-655330
+2016-07-01,train,Salt Lake City,Sales & Marketing,-566020
+2016-08-01,train,Salt Lake City,Sales & Marketing,-495430
+2016-09-01,train,Salt Lake City,Sales & Marketing,-480740
+2016-10-01,train,Salt Lake City,Sales & Marketing,-460070
+2017-07-01,train,Salt Lake City,Sales & Marketing,-458770
+2017-10-01,train,Salt Lake City,Sales & Marketing,-448890
+2017-12-01,test,Salt Lake City,Sales & Marketing,-419640
+2017-03-01,train,Salt Lake City,Sales & Marketing,-403650
+2016-11-01,train,Salt Lake City,Sales & Marketing,-401570
+2016-12-01,train,Salt Lake City,Sales & Marketing,-397150
+2017-08-01,train,Salt Lake City,Sales & Marketing,-379210
+2017-06-01,train,Salt Lake City,Sales & Marketing,-374790
+2017-05-01,train,Salt Lake City,Sales & Marketing,-363740
+2018-01-01,test,Salt Lake City,Sales & Marketing,-357500
+2017-04-01,train,Salt Lake City,Sales & Marketing,-351780
+2017-01-01,train,Salt Lake City,Sales & Marketing,-344110
+2017-09-01,train,Salt Lake City,Sales & Marketing,-336440
+2017-11-01,train,Salt Lake City,Sales & Marketing,-306540
+2017-02-01,train,Salt Lake City,Sales & Marketing,-279240
+2018-01-01,test,Salt Lake City,Revenue,1957930
+2017-11-01,train,Salt Lake City,Revenue,2043860
+2017-03-01,train,Salt Lake City,Revenue,2075060
+2017-12-01,test,Salt Lake City,Revenue,2082340
+2017-04-01,train,Salt Lake City,Revenue,2147730
+2017-01-01,train,Salt Lake City,Revenue,2167750
+2017-05-01,train,Salt Lake City,Revenue,2259400
+2017-02-01,train,Salt Lake City,Revenue,2259530
+2017-09-01,train,Salt Lake City,Revenue,2408380
+2016-12-01,train,Salt Lake City,Revenue,2430350
+2017-10-01,train,Salt Lake City,Revenue,2537210
+2016-02-01,train,Salt Lake City,Revenue,2591290
+2016-01-01,train,Salt Lake City,Revenue,2632110
+2016-10-01,train,Salt Lake City,Revenue,2666820
+2016-11-01,train,Salt Lake City,Revenue,2692950
+2015-01-01,train,Salt Lake City,Revenue,2722330
+2016-05-01,train,Salt Lake City,Revenue,2815150
+2016-09-01,train,Salt Lake City,Revenue,2824120
+2016-07-01,train,Salt Lake City,Revenue,2973750
+2015-02-01,train,Salt Lake City,Revenue,2995850
+2014-01-01,train,Salt Lake City,Revenue,3101020
+2017-07-01,train,Salt Lake City,Revenue,3115190
+2015-11-01,train,Salt Lake City,Revenue,3127930
+2017-08-01,train,Salt Lake City,Revenue,3148990
+2017-06-01,train,Salt Lake City,Revenue,3149900
+2014-02-01,train,Salt Lake City,Revenue,3192540
+2016-03-01,train,Salt Lake City,Revenue,3192670
+2015-04-01,train,Salt Lake City,Revenue,3209440
+2014-11-01,train,Salt Lake City,Revenue,3269110
+2016-08-01,train,Salt Lake City,Revenue,3359200
+2015-12-01,train,Salt Lake City,Revenue,3368430
+2015-10-01,train,Salt Lake City,Revenue,3457870
+2015-03-01,train,Salt Lake City,Revenue,3466320
+2014-03-01,train,Salt Lake City,Revenue,3485820
+2015-05-01,train,Salt Lake City,Revenue,3505970
+2016-04-01,train,Salt Lake City,Revenue,3537170
+2016-06-01,train,Salt Lake City,Revenue,3619460
+2014-04-01,train,Salt Lake City,Revenue,3715010
+2015-09-01,train,Salt Lake City,Revenue,3723460
+2014-12-01,train,Salt Lake City,Revenue,3739580
+2015-07-01,train,Salt Lake City,Revenue,3808480
+2014-10-01,train,Salt Lake City,Revenue,3868800
+2014-08-01,train,Salt Lake City,Revenue,4047030
+2014-09-01,train,Salt Lake City,Revenue,4052880
+2015-06-01,train,Salt Lake City,Revenue,4054310
+2015-08-01,train,Salt Lake City,Revenue,4078880
+2014-05-01,train,Salt Lake City,Revenue,4114110
+2014-06-01,train,Salt Lake City,Revenue,4371640
+2014-07-01,train,Salt Lake City,Revenue,4631250
+2015-06-01,train,Salt Lake City,General & Admin,-573950
+2014-09-01,train,Salt Lake City,General & Admin,-551590
+2014-05-01,train,Salt Lake City,General & Admin,-511940
+2015-05-01,train,Salt Lake City,General & Admin,-511160
+2014-06-01,train,Salt Lake City,General & Admin,-511030
+2014-01-01,train,Salt Lake City,General & Admin,-508300
+2014-08-01,train,Salt Lake City,General & Admin,-502840
+2016-06-01,train,Salt Lake City,General & Admin,-502840
+2015-07-01,train,Salt Lake City,General & Admin,-498290
+2014-07-01,train,Salt Lake City,General & Admin,-496470
+2014-10-01,train,Salt Lake City,General & Admin,-486460
+2014-04-01,train,Salt Lake City,General & Admin,-467870
+2015-08-01,train,Salt Lake City,General & Admin,-464100
+2015-10-01,train,Salt Lake City,General & Admin,-453180
+2015-09-01,train,Salt Lake City,General & Admin,-452790
+2014-02-01,train,Salt Lake City,General & Admin,-451490
+2014-12-01,train,Salt Lake City,General & Admin,-445900
+2014-11-01,train,Salt Lake City,General & Admin,-444340
+2014-03-01,train,Salt Lake City,General & Admin,-434720
+2015-03-01,train,Salt Lake City,General & Admin,-419900
+2015-01-01,train,Salt Lake City,General & Admin,-406250
+2015-02-01,train,Salt Lake City,General & Admin,-404560
+2015-11-01,train,Salt Lake City,General & Admin,-395330
+2016-02-01,train,Salt Lake City,General & Admin,-393380
+2016-05-01,train,Salt Lake City,General & Admin,-388960
+2016-04-01,train,Salt Lake City,General & Admin,-379600
+2017-06-01,train,Salt Lake City,General & Admin,-378950
+2016-08-01,train,Salt Lake City,General & Admin,-367120
+2017-05-01,train,Salt Lake City,General & Admin,-365690
+2016-01-01,train,Salt Lake City,General & Admin,-358540
+2017-07-01,train,Salt Lake City,General & Admin,-353860
+2015-12-01,train,Salt Lake City,General & Admin,-352300
+2016-07-01,train,Salt Lake City,General & Admin,-347360
+2015-04-01,train,Salt Lake City,General & Admin,-346710
+2017-03-01,train,Salt Lake City,General & Admin,-343980
+2016-03-01,train,Salt Lake City,General & Admin,-332410
+2017-01-01,train,Salt Lake City,General & Admin,-325520
+2016-09-01,train,Salt Lake City,General & Admin,-317460
+2016-11-01,train,Salt Lake City,General & Admin,-305110
+2016-10-01,train,Salt Lake City,General & Admin,-304070
+2017-10-01,train,Salt Lake City,General & Admin,-301340
+2017-02-01,train,Salt Lake City,General & Admin,-299390
+2018-01-01,test,Salt Lake City,General & Admin,-298610
+2017-04-01,train,Salt Lake City,General & Admin,-297570
+2017-12-01,test,Salt Lake City,General & Admin,-294970
+2017-09-01,train,Salt Lake City,General & Admin,-294840
+2017-11-01,train,Salt Lake City,General & Admin,-288860
+2017-08-01,train,Salt Lake City,General & Admin,-284180
+2016-12-01,train,Salt Lake City,General & Admin,-275470
+2014-07-01,train,Salt Lake City,Cost of goods sold,-3314740
+2014-06-01,train,Salt Lake City,Cost of goods sold,-3026920
+2014-08-01,train,Salt Lake City,Cost of goods sold,-2806180
+2014-05-01,train,Salt Lake City,Cost of goods sold,-2706600
+2014-04-01,train,Salt Lake City,Cost of goods sold,-2570880
+2014-10-01,train,Salt Lake City,Cost of goods sold,-2549430
+2014-09-01,train,Salt Lake City,Cost of goods sold,-2475590
+2014-03-01,train,Salt Lake City,Cost of goods sold,-2472470
+2015-07-01,train,Salt Lake City,Cost of goods sold,-2403830
+2015-06-01,train,Salt Lake City,Cost of goods sold,-2400580
+2015-08-01,train,Salt Lake City,Cost of goods sold,-2348190
+2016-08-01,train,Salt Lake City,Cost of goods sold,-2324270
+2017-07-01,train,Salt Lake City,Cost of goods sold,-2286440
+2017-06-01,train,Salt Lake City,Cost of goods sold,-2256020
+2016-06-01,train,Salt Lake City,Cost of goods sold,-2249260
+2014-02-01,train,Salt Lake City,Cost of goods sold,-2176590
+2014-01-01,train,Salt Lake City,Cost of goods sold,-2162290
+2017-08-01,train,Salt Lake City,Cost of goods sold,-2155530
+2014-11-01,train,Salt Lake City,Cost of goods sold,-2145520
+2015-09-01,train,Salt Lake City,Cost of goods sold,-2119000
+2015-03-01,train,Salt Lake City,Cost of goods sold,-2085980
+2015-10-01,train,Salt Lake City,Cost of goods sold,-2057380
+2016-07-01,train,Salt Lake City,Cost of goods sold,-2047890
+2014-12-01,train,Salt Lake City,Cost of goods sold,-2030080
+2015-04-01,train,Salt Lake City,Cost of goods sold,-1980290
+2015-02-01,train,Salt Lake City,Cost of goods sold,-1966640
+2016-11-01,train,Salt Lake City,Cost of goods sold,-1944670
+2016-10-01,train,Salt Lake City,Cost of goods sold,-1943630
+2015-01-01,train,Salt Lake City,Cost of goods sold,-1943240
+2016-05-01,train,Salt Lake City,Cost of goods sold,-1899950
+2017-05-01,train,Salt Lake City,Cost of goods sold,-1889940
+2015-05-01,train,Salt Lake City,Cost of goods sold,-1859910
+2016-09-01,train,Salt Lake City,Cost of goods sold,-1828710
+2017-04-01,train,Salt Lake City,Cost of goods sold,-1823380
+2016-03-01,train,Salt Lake City,Cost of goods sold,-1796210
+2015-11-01,train,Salt Lake City,Cost of goods sold,-1789190
+2017-03-01,train,Salt Lake City,Cost of goods sold,-1727830
+2015-12-01,train,Salt Lake City,Cost of goods sold,-1709760
+2017-09-01,train,Salt Lake City,Cost of goods sold,-1681680
+2017-10-01,train,Salt Lake City,Cost of goods sold,-1666210
+2017-02-01,train,Salt Lake City,Cost of goods sold,-1628900
+2016-04-01,train,Salt Lake City,Cost of goods sold,-1612390
+2017-01-01,train,Salt Lake City,Cost of goods sold,-1608230
+2016-01-01,train,Salt Lake City,Cost of goods sold,-1563120
+2016-02-01,train,Salt Lake City,Cost of goods sold,-1529970
+2017-11-01,train,Salt Lake City,Cost of goods sold,-1470430
+2018-01-01,test,Salt Lake City,Cost of goods sold,-1402050
+2016-12-01,train,Salt Lake City,Cost of goods sold,-1314300
+2017-12-01,test,Salt Lake City,Cost of goods sold,-1247870
+2014-01-01,train,San Diego,Cost of goods sold,-767780
+2014-01-01,train,San Diego,General & Admin,-201240
+2014-01-01,train,San Diego,Revenue,1025700
+2014-01-01,train,San Diego,Sales & Marketing,-125710
+2014-02-01,train,San Diego,Cost of goods sold,-876980
+2014-02-01,train,San Diego,General & Admin,-189150
+2014-02-01,train,San Diego,Revenue,1013220
+2014-02-01,train,San Diego,Sales & Marketing,-95940
+2014-03-01,train,San Diego,Cost of goods sold,-918190
+2014-03-01,train,San Diego,General & Admin,-207220
+2014-03-01,train,San Diego,Revenue,1139970
+2014-03-01,train,San Diego,Sales & Marketing,-100750
+2014-04-01,train,San Diego,Cost of goods sold,-910520
+2014-04-01,train,San Diego,General & Admin,-205400
+2014-04-01,train,San Diego,Revenue,1172080
+2014-04-01,train,San Diego,Sales & Marketing,-142480
+2014-05-01,train,San Diego,Cost of goods sold,-1039870
+2014-05-01,train,San Diego,General & Admin,-213460
+2014-05-01,train,San Diego,Revenue,1281020
+2014-05-01,train,San Diego,Sales & Marketing,-143390
+2014-06-01,train,San Diego,Cost of goods sold,-1184040
+2014-06-01,train,San Diego,General & Admin,-220220
+2014-06-01,train,San Diego,Revenue,1526850
+2014-06-01,train,San Diego,Sales & Marketing,-161590
+2014-07-01,train,San Diego,Cost of goods sold,-1292330
+2014-07-01,train,San Diego,General & Admin,-244920
+2014-07-01,train,San Diego,Revenue,1711060
+2014-07-01,train,San Diego,Sales & Marketing,-181350
+2014-08-01,train,San Diego,Cost of goods sold,-1241370
+2014-08-01,train,San Diego,General & Admin,-227630
+2014-08-01,train,San Diego,Revenue,1588340
+2014-08-01,train,San Diego,Sales & Marketing,-153270
+2014-09-01,train,San Diego,Cost of goods sold,-1071590
+2014-09-01,train,San Diego,General & Admin,-209040
+2014-09-01,train,San Diego,Revenue,1393210
+2014-09-01,train,San Diego,Sales & Marketing,-147550
+2014-10-01,train,San Diego,Cost of goods sold,-1027390
+2014-10-01,train,San Diego,General & Admin,-233350
+2014-10-01,train,San Diego,Revenue,1335750
+2014-10-01,train,San Diego,Sales & Marketing,-153010
+2014-11-01,train,San Diego,Cost of goods sold,-877110
+2014-11-01,train,San Diego,General & Admin,-195780
+2014-11-01,train,San Diego,Revenue,1123330
+2014-11-01,train,San Diego,Sales & Marketing,-110110
+2014-12-01,train,San Diego,Cost of goods sold,-1116570
+2014-12-01,train,San Diego,General & Admin,-261560
+2014-12-01,train,San Diego,Revenue,1458340
+2014-12-01,train,San Diego,Sales & Marketing,-153270
+2015-01-01,train,San Diego,Cost of goods sold,-796250
+2015-01-01,train,San Diego,General & Admin,-193440
+2015-01-01,train,San Diego,Revenue,1047410
+2015-01-01,train,San Diego,Sales & Marketing,-153660
+2015-02-01,train,San Diego,Cost of goods sold,-871520
+2015-02-01,train,San Diego,General & Admin,-177710
+2015-02-01,train,San Diego,Revenue,1102140
+2015-02-01,train,San Diego,Sales & Marketing,-143130
+2015-03-01,train,San Diego,Cost of goods sold,-975780
+2015-03-01,train,San Diego,General & Admin,-172640
+2015-03-01,train,San Diego,Revenue,1256190
+2015-03-01,train,San Diego,Sales & Marketing,-167830
+2015-04-01,train,San Diego,Cost of goods sold,-970840
+2015-04-01,train,San Diego,General & Admin,-208780
+2015-04-01,train,San Diego,Revenue,1177410
+2015-04-01,train,San Diego,Sales & Marketing,-135200
+2015-05-01,train,San Diego,Cost of goods sold,-1078480
+2015-05-01,train,San Diego,General & Admin,-210600
+2015-05-01,train,San Diego,Revenue,1303770
+2015-05-01,train,San Diego,Sales & Marketing,-144170
+2015-06-01,train,San Diego,Cost of goods sold,-1277510
+2015-06-01,train,San Diego,General & Admin,-210080
+2015-06-01,train,San Diego,Revenue,1699360
+2015-06-01,train,San Diego,Sales & Marketing,-183820
+2015-07-01,train,San Diego,Cost of goods sold,-1559220
+2015-07-01,train,San Diego,General & Admin,-262080
+2015-07-01,train,San Diego,Revenue,2142660
+2015-07-01,train,San Diego,Sales & Marketing,-183430
+2015-08-01,train,San Diego,Cost of goods sold,-1478620
+2015-08-01,train,San Diego,General & Admin,-278980
+2015-08-01,train,San Diego,Revenue,2071940
+2015-08-01,train,San Diego,Sales & Marketing,-164450
+2015-09-01,train,San Diego,Cost of goods sold,-1275300
+2015-09-01,train,San Diego,General & Admin,-250250
+2015-09-01,train,San Diego,Revenue,1592500
+2015-09-01,train,San Diego,Sales & Marketing,-168090
+2015-10-01,train,San Diego,Cost of goods sold,-1295710
+2015-10-01,train,San Diego,General & Admin,-257140
+2015-10-01,train,San Diego,Revenue,1841320
+2015-10-01,train,San Diego,Sales & Marketing,-215670
+2015-11-01,train,San Diego,Cost of goods sold,-1143220
+2015-11-01,train,San Diego,General & Admin,-225810
+2015-11-01,train,San Diego,Revenue,1627080
+2015-11-01,train,San Diego,Sales & Marketing,-200980
+2015-12-01,train,San Diego,Cost of goods sold,-1204580
+2015-12-01,train,San Diego,General & Admin,-257660
+2015-12-01,train,San Diego,Revenue,1708720
+2015-12-01,train,San Diego,Sales & Marketing,-207740
+2016-01-01,train,San Diego,Cost of goods sold,-894010
+2016-01-01,train,San Diego,General & Admin,-190970
+2016-01-01,train,San Diego,Revenue,1109030
+2016-01-01,train,San Diego,Sales & Marketing,-135070
+2016-02-01,train,San Diego,Cost of goods sold,-928070
+2016-02-01,train,San Diego,General & Admin,-193830
+2016-02-01,train,San Diego,Revenue,1126970
+2016-02-01,train,San Diego,Sales & Marketing,-164840
+2016-03-01,train,San Diego,Cost of goods sold,-1029730
+2016-03-01,train,San Diego,General & Admin,-200070
+2016-03-01,train,San Diego,Revenue,1327300
+2016-03-01,train,San Diego,Sales & Marketing,-122850
+2016-04-01,train,San Diego,Cost of goods sold,-1035190
+2016-04-01,train,San Diego,General & Admin,-215280
+2016-04-01,train,San Diego,Revenue,1219010
+2016-04-01,train,San Diego,Sales & Marketing,-124280
+2016-05-01,train,San Diego,Cost of goods sold,-1041170
+2016-05-01,train,San Diego,General & Admin,-219830
+2016-05-01,train,San Diego,Revenue,1286740
+2016-05-01,train,San Diego,Sales & Marketing,-155740
+2016-06-01,train,San Diego,Cost of goods sold,-1521520
+2016-06-01,train,San Diego,General & Admin,-238290
+2016-06-01,train,San Diego,Revenue,2012010
+2016-06-01,train,San Diego,Sales & Marketing,-173160
+2016-07-01,train,San Diego,Cost of goods sold,-1492530
+2016-07-01,train,San Diego,General & Admin,-231400
+2016-07-01,train,San Diego,Revenue,2006940
+2016-07-01,train,San Diego,Sales & Marketing,-149370
+2016-08-01,train,San Diego,Cost of goods sold,-1343030
+2016-08-01,train,San Diego,General & Admin,-281190
+2016-08-01,train,San Diego,Revenue,1907620
+2016-08-01,train,San Diego,Sales & Marketing,-200980
+2016-09-01,train,San Diego,Cost of goods sold,-1347970
+2016-09-01,train,San Diego,General & Admin,-223470
+2016-09-01,train,San Diego,Revenue,1807130
+2016-09-01,train,San Diego,Sales & Marketing,-172640
+2016-10-01,train,San Diego,Cost of goods sold,-1145820
+2016-10-01,train,San Diego,General & Admin,-202150
+2016-10-01,train,San Diego,Revenue,1582880
+2016-10-01,train,San Diego,Sales & Marketing,-154440
+2016-11-01,train,San Diego,Cost of goods sold,-1141140
+2016-11-01,train,San Diego,General & Admin,-195000
+2016-11-01,train,San Diego,Revenue,1562990
+2016-11-01,train,San Diego,Sales & Marketing,-140530
+2016-12-01,train,San Diego,Cost of goods sold,-1250730
+2016-12-01,train,San Diego,General & Admin,-259740
+2016-12-01,train,San Diego,Revenue,1894620
+2016-12-01,train,San Diego,Sales & Marketing,-121420
+2017-01-01,train,San Diego,Cost of goods sold,-1023490
+2017-01-01,train,San Diego,General & Admin,-214370
+2017-01-01,train,San Diego,Revenue,1328210
+2017-01-01,train,San Diego,Sales & Marketing,-111800
+2017-02-01,train,San Diego,Cost of goods sold,-1031420
+2017-02-01,train,San Diego,General & Admin,-204360
+2017-02-01,train,San Diego,Revenue,1290900
+2017-02-01,train,San Diego,Sales & Marketing,-122460
+2017-03-01,train,San Diego,Cost of goods sold,-1093430
+2017-03-01,train,San Diego,General & Admin,-236990
+2017-03-01,train,San Diego,Revenue,1367340
+2017-03-01,train,San Diego,Sales & Marketing,-148200
+2017-04-01,train,San Diego,Cost of goods sold,-1103050
+2017-04-01,train,San Diego,General & Admin,-216970
+2017-04-01,train,San Diego,Revenue,1334060
+2017-04-01,train,San Diego,Sales & Marketing,-120250
+2017-05-01,train,San Diego,Cost of goods sold,-1290250
+2017-05-01,train,San Diego,General & Admin,-216320
+2017-05-01,train,San Diego,Revenue,1605760
+2017-05-01,train,San Diego,Sales & Marketing,-161980
+2017-06-01,train,San Diego,Cost of goods sold,-1888770
+2017-06-01,train,San Diego,General & Admin,-248690
+2017-06-01,train,San Diego,Revenue,2546700
+2017-06-01,train,San Diego,Sales & Marketing,-220870
+2017-07-01,train,San Diego,Cost of goods sold,-1733030
+2017-07-01,train,San Diego,General & Admin,-240500
+2017-07-01,train,San Diego,Revenue,2408120
+2017-07-01,train,San Diego,Sales & Marketing,-177450
+2017-08-01,train,San Diego,Cost of goods sold,-2026440
+2017-08-01,train,San Diego,General & Admin,-241540
+2017-08-01,train,San Diego,Revenue,2485470
+2017-08-01,train,San Diego,Sales & Marketing,-243360
+2017-09-01,train,San Diego,Cost of goods sold,-1293240
+2017-09-01,train,San Diego,General & Admin,-233740
+2017-09-01,train,San Diego,Revenue,1737320
+2017-09-01,train,San Diego,Sales & Marketing,-172120
+2017-10-01,train,San Diego,Cost of goods sold,-1328730
+2017-10-01,train,San Diego,General & Admin,-227110
+2017-10-01,train,San Diego,Revenue,1774370
+2017-10-01,train,San Diego,Sales & Marketing,-184470
+2017-11-01,train,San Diego,Cost of goods sold,-1113320
+2017-11-01,train,San Diego,General & Admin,-226070
+2017-11-01,train,San Diego,Revenue,1483040
+2017-11-01,train,San Diego,Sales & Marketing,-194220
+2017-12-01,test,San Diego,Cost of goods sold,-1004900
+2017-12-01,test,San Diego,General & Admin,-242710
+2017-12-01,test,San Diego,Revenue,1758640
+2017-12-01,test,San Diego,Sales & Marketing,-372710
+2018-01-01,test,San Diego,Cost of goods sold,-863200
+2018-01-01,test,San Diego,General & Admin,-233090
+2018-01-01,test,San Diego,Revenue,1127880
+2018-01-01,test,San Diego,Sales & Marketing,-191360
+2014-01-01,train,San Francisco,Cost of goods sold,-1150110
+2014-01-01,train,San Francisco,General & Admin,-235430
+2014-01-01,train,San Francisco,Revenue,1343420
+2014-01-01,train,San Francisco,Sales & Marketing,-139490
+2014-02-01,train,San Francisco,Cost of goods sold,-1031030
+2014-02-01,train,San Francisco,General & Admin,-231920
+2014-02-01,train,San Francisco,Revenue,1219790
+2014-02-01,train,San Francisco,Sales & Marketing,-159380
+2014-03-01,train,San Francisco,Cost of goods sold,-1362920
+2014-03-01,train,San Francisco,General & Admin,-301080
+2014-03-01,train,San Francisco,Revenue,1600300
+2014-03-01,train,San Francisco,Sales & Marketing,-174850
+2014-04-01,train,San Francisco,Cost of goods sold,-1267240
+2014-04-01,train,San Francisco,General & Admin,-271180
+2014-04-01,train,San Francisco,Revenue,1500330
+2014-04-01,train,San Francisco,Sales & Marketing,-180310
+2014-05-01,train,San Francisco,Cost of goods sold,-1321710
+2014-05-01,train,San Francisco,General & Admin,-260130
+2014-05-01,train,San Francisco,Revenue,1584570
+2014-05-01,train,San Francisco,Sales & Marketing,-159770
+2014-06-01,train,San Francisco,Cost of goods sold,-1488890
+2014-06-01,train,San Francisco,General & Admin,-235690
+2014-06-01,train,San Francisco,Revenue,1916720
+2014-06-01,train,San Francisco,Sales & Marketing,-173680
+2014-07-01,train,San Francisco,Cost of goods sold,-1736800
+2014-07-01,train,San Francisco,General & Admin,-293410
+2014-07-01,train,San Francisco,Revenue,2369770
+2014-07-01,train,San Francisco,Sales & Marketing,-187070
+2014-08-01,train,San Francisco,Cost of goods sold,-1429090
+2014-08-01,train,San Francisco,General & Admin,-280930
+2014-08-01,train,San Francisco,Revenue,2066870
+2014-08-01,train,San Francisco,Sales & Marketing,-178620
+2014-09-01,train,San Francisco,Cost of goods sold,-1338610
+2014-09-01,train,San Francisco,General & Admin,-271440
+2014-09-01,train,San Francisco,Revenue,1785030
+2014-09-01,train,San Francisco,Sales & Marketing,-197210
+2014-10-01,train,San Francisco,Cost of goods sold,-1457820
+2014-10-01,train,San Francisco,General & Admin,-273130
+2014-10-01,train,San Francisco,Revenue,1799850
+2014-10-01,train,San Francisco,Sales & Marketing,-158340
+2014-11-01,train,San Francisco,Cost of goods sold,-1108510
+2014-11-01,train,San Francisco,General & Admin,-244530
+2014-11-01,train,San Francisco,Revenue,1438450
+2014-11-01,train,San Francisco,Sales & Marketing,-155350
+2014-12-01,train,San Francisco,Cost of goods sold,-1252160
+2014-12-01,train,San Francisco,General & Admin,-208000
+2014-12-01,train,San Francisco,Revenue,1859520
+2014-12-01,train,San Francisco,Sales & Marketing,-189800
+2015-01-01,train,San Francisco,Cost of goods sold,-1008020
+2015-01-01,train,San Francisco,General & Admin,-219830
+2015-01-01,train,San Francisco,Revenue,1131910
+2015-01-01,train,San Francisco,Sales & Marketing,-148980
+2015-02-01,train,San Francisco,Cost of goods sold,-1103700
+2015-02-01,train,San Francisco,General & Admin,-232180
+2015-02-01,train,San Francisco,Revenue,1323140
+2015-02-01,train,San Francisco,Sales & Marketing,-139750
+2015-03-01,train,San Francisco,Cost of goods sold,-1063270
+2015-03-01,train,San Francisco,General & Admin,-222690
+2015-03-01,train,San Francisco,Revenue,1177930
+2015-03-01,train,San Francisco,Sales & Marketing,-151320
+2015-04-01,train,San Francisco,Cost of goods sold,-1104220
+2015-04-01,train,San Francisco,General & Admin,-244140
+2015-04-01,train,San Francisco,Revenue,1285440
+2015-04-01,train,San Francisco,Sales & Marketing,-128180
+2015-05-01,train,San Francisco,Cost of goods sold,-1356680
+2015-05-01,train,San Francisco,General & Admin,-264420
+2015-05-01,train,San Francisco,Revenue,1726010
+2015-05-01,train,San Francisco,Sales & Marketing,-179400
+2015-06-01,train,San Francisco,Cost of goods sold,-1638260
+2015-06-01,train,San Francisco,General & Admin,-233740
+2015-06-01,train,San Francisco,Revenue,2025140
+2015-06-01,train,San Francisco,Sales & Marketing,-180180
+2015-07-01,train,San Francisco,Cost of goods sold,-1701050
+2015-07-01,train,San Francisco,General & Admin,-309920
+2015-07-01,train,San Francisco,Revenue,2435420
+2015-07-01,train,San Francisco,Sales & Marketing,-207740
+2015-08-01,train,San Francisco,Cost of goods sold,-1740830
+2015-08-01,train,San Francisco,General & Admin,-278590
+2015-08-01,train,San Francisco,Revenue,2387060
+2015-08-01,train,San Francisco,Sales & Marketing,-214240
+2015-09-01,train,San Francisco,Cost of goods sold,-1509690
+2015-09-01,train,San Francisco,General & Admin,-304590
+2015-09-01,train,San Francisco,Revenue,1855230
+2015-09-01,train,San Francisco,Sales & Marketing,-188240
+2015-10-01,train,San Francisco,Cost of goods sold,-1402180
+2015-10-01,train,San Francisco,General & Admin,-264810
+2015-10-01,train,San Francisco,Revenue,1834040
+2015-10-01,train,San Francisco,Sales & Marketing,-178750
+2015-11-01,train,San Francisco,Cost of goods sold,-1158560
+2015-11-01,train,San Francisco,General & Admin,-246870
+2015-11-01,train,San Francisco,Revenue,1636830
+2015-11-01,train,San Francisco,Sales & Marketing,-178620
+2015-12-01,train,San Francisco,Cost of goods sold,-1112670
+2015-12-01,train,San Francisco,General & Admin,-248040
+2015-12-01,train,San Francisco,Revenue,2023580
+2015-12-01,train,San Francisco,Sales & Marketing,-168480
+2016-01-01,train,San Francisco,Cost of goods sold,-1056120
+2016-01-01,train,San Francisco,General & Admin,-209040
+2016-01-01,train,San Francisco,Revenue,1278160
+2016-01-01,train,San Francisco,Sales & Marketing,-162240
+2016-02-01,train,San Francisco,Cost of goods sold,-1051310
+2016-02-01,train,San Francisco,General & Admin,-211900
+2016-02-01,train,San Francisco,Revenue,1294800
+2016-02-01,train,San Francisco,Sales & Marketing,-152490
+2016-03-01,train,San Francisco,Cost of goods sold,-1126840
+2016-03-01,train,San Francisco,General & Admin,-233090
+2016-03-01,train,San Francisco,Revenue,1509950
+2016-03-01,train,San Francisco,Sales & Marketing,-180310
+2016-04-01,train,San Francisco,Cost of goods sold,-1201850
+2016-04-01,train,San Francisco,General & Admin,-258180
+2016-04-01,train,San Francisco,Revenue,1644110
+2016-04-01,train,San Francisco,Sales & Marketing,-182390
+2016-05-01,train,San Francisco,Cost of goods sold,-1248520
+2016-05-01,train,San Francisco,General & Admin,-250380
+2016-05-01,train,San Francisco,Revenue,1538550
+2016-05-01,train,San Francisco,Sales & Marketing,-178230
+2016-06-01,train,San Francisco,Cost of goods sold,-1744340
+2016-06-01,train,San Francisco,General & Admin,-275340
+2016-06-01,train,San Francisco,Revenue,2388100
+2016-06-01,train,San Francisco,Sales & Marketing,-209950
+2016-07-01,train,San Francisco,Cost of goods sold,-1545180
+2016-07-01,train,San Francisco,General & Admin,-182780
+2016-07-01,train,San Francisco,Revenue,1987570
+2016-07-01,train,San Francisco,Sales & Marketing,-150930
+2016-08-01,train,San Francisco,Cost of goods sold,-1611090
+2016-08-01,train,San Francisco,General & Admin,-294840
+2016-08-01,train,San Francisco,Revenue,2369770
+2016-08-01,train,San Francisco,Sales & Marketing,-179530
+2016-09-01,train,San Francisco,Cost of goods sold,-1238380
+2016-09-01,train,San Francisco,General & Admin,-198510
+2016-09-01,train,San Francisco,Revenue,1768910
+2016-09-01,train,San Francisco,Sales & Marketing,-164970
+2016-10-01,train,San Francisco,Cost of goods sold,-1207570
+2016-10-01,train,San Francisco,General & Admin,-230750
+2016-10-01,train,San Francisco,Revenue,1672320
+2016-10-01,train,San Francisco,Sales & Marketing,-179270
+2016-11-01,train,San Francisco,Cost of goods sold,-1240330
+2016-11-01,train,San Francisco,General & Admin,-249340
+2016-11-01,train,San Francisco,Revenue,1754740
+2016-11-01,train,San Francisco,Sales & Marketing,-182000
+2016-12-01,train,San Francisco,Cost of goods sold,-1134770
+2016-12-01,train,San Francisco,General & Admin,-258700
+2016-12-01,train,San Francisco,Revenue,2125500
+2016-12-01,train,San Francisco,Sales & Marketing,-166660
+2017-01-01,train,San Francisco,Cost of goods sold,-1064700
+2017-01-01,train,San Francisco,General & Admin,-267800
+2017-01-01,train,San Francisco,Revenue,1379690
+2017-01-01,train,San Francisco,Sales & Marketing,-134160
+2017-02-01,train,San Francisco,Cost of goods sold,-1152840
+2017-02-01,train,San Francisco,General & Admin,-231530
+2017-02-01,train,San Francisco,Revenue,1493050
+2017-02-01,train,San Francisco,Sales & Marketing,-128960
+2017-03-01,train,San Francisco,Cost of goods sold,-1317420
+2017-03-01,train,San Francisco,General & Admin,-272740
+2017-03-01,train,San Francisco,Revenue,1871350
+2017-03-01,train,San Francisco,Sales & Marketing,-171470
+2017-04-01,train,San Francisco,Cost of goods sold,-1304160
+2017-04-01,train,San Francisco,General & Admin,-271830
+2017-04-01,train,San Francisco,Revenue,1782430
+2017-04-01,train,San Francisco,Sales & Marketing,-153010
+2017-05-01,train,San Francisco,Cost of goods sold,-1461460
+2017-05-01,train,San Francisco,General & Admin,-292110
+2017-05-01,train,San Francisco,Revenue,1938430
+2017-05-01,train,San Francisco,Sales & Marketing,-216450
+2017-06-01,train,San Francisco,Cost of goods sold,-1948960
+2017-06-01,train,San Francisco,General & Admin,-338520
+2017-06-01,train,San Francisco,Revenue,2628860
+2017-06-01,train,San Francisco,Sales & Marketing,-176930
+2017-07-01,train,San Francisco,Cost of goods sold,-1746680
+2017-07-01,train,San Francisco,General & Admin,-311610
+2017-07-01,train,San Francisco,Revenue,2331550
+2017-07-01,train,San Francisco,Sales & Marketing,-162500
+2017-08-01,train,San Francisco,Cost of goods sold,-1724190
+2017-08-01,train,San Francisco,General & Admin,-279500
+2017-08-01,train,San Francisco,Revenue,2319330
+2017-08-01,train,San Francisco,Sales & Marketing,-164060
+2017-09-01,train,San Francisco,Cost of goods sold,-1228630
+2017-09-01,train,San Francisco,General & Admin,-278070
+2017-09-01,train,San Francisco,Revenue,1685710
+2017-09-01,train,San Francisco,Sales & Marketing,-128440
+2017-10-01,train,San Francisco,Cost of goods sold,-1379950
+2017-10-01,train,San Francisco,General & Admin,-268190
+2017-10-01,train,San Francisco,Revenue,1858090
+2017-10-01,train,San Francisco,Sales & Marketing,-147030
+2017-11-01,train,San Francisco,Cost of goods sold,-1242280
+2017-11-01,train,San Francisco,General & Admin,-296660
+2017-11-01,train,San Francisco,Revenue,1703780
+2017-11-01,train,San Francisco,Sales & Marketing,-127270
+2017-12-01,test,San Francisco,Cost of goods sold,-1115790
+2017-12-01,test,San Francisco,General & Admin,-302120
+2017-12-01,test,San Francisco,Revenue,1848860
+2017-12-01,test,San Francisco,Sales & Marketing,-221260
+2018-01-01,test,San Francisco,Cost of goods sold,-1154790
+2018-01-01,test,San Francisco,General & Admin,-291590
+2018-01-01,test,San Francisco,Revenue,1530100
+2018-01-01,test,San Francisco,Sales & Marketing,-152620
+2014-01-01,train,Tigard,Cost of goods sold,-769080
+2014-01-01,train,Tigard,General & Admin,-226460
+2014-01-01,train,Tigard,Revenue,948740
+2014-01-01,train,Tigard,Sales & Marketing,-146900
+2014-02-01,train,Tigard,Cost of goods sold,-730210
+2014-02-01,train,Tigard,General & Admin,-197340
+2014-02-01,train,Tigard,Revenue,907660
+2014-02-01,train,Tigard,Sales & Marketing,-121550
+2014-03-01,train,Tigard,Cost of goods sold,-859950
+2014-03-01,train,Tigard,General & Admin,-223080
+2014-03-01,train,Tigard,Revenue,1146340
+2014-03-01,train,Tigard,Sales & Marketing,-183040
+2014-04-01,train,Tigard,Cost of goods sold,-885950
+2014-04-01,train,Tigard,General & Admin,-232440
+2014-04-01,train,Tigard,Revenue,1159340
+2014-04-01,train,Tigard,Sales & Marketing,-168870
+2014-05-01,train,Tigard,Cost of goods sold,-1046370
+2014-05-01,train,Tigard,General & Admin,-240890
+2014-05-01,train,Tigard,Revenue,1201460
+2014-05-01,train,Tigard,Sales & Marketing,-156780
+2014-06-01,train,Tigard,Cost of goods sold,-1282710
+2014-06-01,train,Tigard,General & Admin,-260780
+2014-06-01,train,Tigard,Revenue,1735500
+2014-06-01,train,Tigard,Sales & Marketing,-251160
+2014-07-01,train,Tigard,Cost of goods sold,-1364740
+2014-07-01,train,Tigard,General & Admin,-291980
+2014-07-01,train,Tigard,Revenue,1955070
+2014-07-01,train,Tigard,Sales & Marketing,-219960
+2014-08-01,train,Tigard,Cost of goods sold,-1218620
+2014-08-01,train,Tigard,General & Admin,-253110
+2014-08-01,train,Tigard,Revenue,1782300
+2014-08-01,train,Tigard,Sales & Marketing,-168090
+2014-09-01,train,Tigard,Cost of goods sold,-1058460
+2014-09-01,train,Tigard,General & Admin,-280930
+2014-09-01,train,Tigard,Revenue,1503580
+2014-09-01,train,Tigard,Sales & Marketing,-157040
+2014-10-01,train,Tigard,Cost of goods sold,-889850
+2014-10-01,train,Tigard,General & Admin,-212160
+2014-10-01,train,Tigard,Revenue,1216020
+2014-10-01,train,Tigard,Sales & Marketing,-160420
+2014-11-01,train,Tigard,Cost of goods sold,-710840
+2014-11-01,train,Tigard,General & Admin,-184340
+2014-11-01,train,Tigard,Revenue,854100
+2014-11-01,train,Tigard,Sales & Marketing,-131300
+2014-12-01,train,Tigard,Cost of goods sold,-666510
+2014-12-01,train,Tigard,General & Admin,-188500
+2014-12-01,train,Tigard,Revenue,1352520
+2014-12-01,train,Tigard,Sales & Marketing,-218010
+2015-01-01,train,Tigard,Cost of goods sold,-644020
+2015-01-01,train,Tigard,General & Admin,-189930
+2015-01-01,train,Tigard,Revenue,730210
+2015-01-01,train,Tigard,Sales & Marketing,-159770
+2015-02-01,train,Tigard,Cost of goods sold,-753740
+2015-02-01,train,Tigard,General & Admin,-214370
+2015-02-01,train,Tigard,Revenue,986180
+2015-02-01,train,Tigard,Sales & Marketing,-165230
+2015-03-01,train,Tigard,Cost of goods sold,-779610
+2015-03-01,train,Tigard,General & Admin,-185640
+2015-03-01,train,Tigard,Revenue,1079390
+2015-03-01,train,Tigard,Sales & Marketing,-154960
+2015-04-01,train,Tigard,Cost of goods sold,-841750
+2015-04-01,train,Tigard,General & Admin,-207740
+2015-04-01,train,Tigard,Revenue,1164540
+2015-04-01,train,Tigard,Sales & Marketing,-183690
+2015-05-01,train,Tigard,Cost of goods sold,-1035060
+2015-05-01,train,Tigard,General & Admin,-250640
+2015-05-01,train,Tigard,Revenue,1404260
+2015-05-01,train,Tigard,Sales & Marketing,-187590
+2015-06-01,train,Tigard,Cost of goods sold,-1189630
+2015-06-01,train,Tigard,General & Admin,-261820
+2015-06-01,train,Tigard,Revenue,1624870
+2015-06-01,train,Tigard,Sales & Marketing,-241150
+2015-07-01,train,Tigard,Cost of goods sold,-1348100
+2015-07-01,train,Tigard,General & Admin,-276640
+2015-07-01,train,Tigard,Revenue,1838330
+2015-07-01,train,Tigard,Sales & Marketing,-192530
+2015-08-01,train,Tigard,Cost of goods sold,-1154140
+2015-08-01,train,Tigard,General & Admin,-265850
+2015-08-01,train,Tigard,Revenue,1792440
+2015-08-01,train,Tigard,Sales & Marketing,-213460
+2015-09-01,train,Tigard,Cost of goods sold,-1045070
+2015-09-01,train,Tigard,General & Admin,-228930
+2015-09-01,train,Tigard,Revenue,1388010
+2015-09-01,train,Tigard,Sales & Marketing,-168090
+2015-10-01,train,Tigard,Cost of goods sold,-942240
+2015-10-01,train,Tigard,General & Admin,-224640
+2015-10-01,train,Tigard,Revenue,1437410
+2015-10-01,train,Tigard,Sales & Marketing,-181220
+2015-11-01,train,Tigard,Cost of goods sold,-944320
+2015-11-01,train,Tigard,General & Admin,-229710
+2015-11-01,train,Tigard,Revenue,1302470
+2015-11-01,train,Tigard,Sales & Marketing,-193440
+2015-12-01,train,Tigard,Cost of goods sold,-720980
+2015-12-01,train,Tigard,General & Admin,-239330
+2015-12-01,train,Tigard,Revenue,1461720
+2015-12-01,train,Tigard,Sales & Marketing,-205010
+2016-01-01,train,Tigard,Cost of goods sold,-750230
+2016-01-01,train,Tigard,General & Admin,-197990
+2016-01-01,train,Tigard,Revenue,987220
+2016-01-01,train,Tigard,Sales & Marketing,-161850
+2016-02-01,train,Tigard,Cost of goods sold,-713180
+2016-02-01,train,Tigard,General & Admin,-183820
+2016-02-01,train,Tigard,Revenue,934830
+2016-02-01,train,Tigard,Sales & Marketing,-164970
+2016-03-01,train,Tigard,Cost of goods sold,-957450
+2016-03-01,train,Tigard,General & Admin,-213460
+2016-03-01,train,Tigard,Revenue,1189500
+2016-03-01,train,Tigard,Sales & Marketing,-174980
+2016-04-01,train,Tigard,Cost of goods sold,-983190
+2016-04-01,train,Tigard,General & Admin,-270140
+2016-04-01,train,Tigard,Revenue,1249690
+2016-04-01,train,Tigard,Sales & Marketing,-174720
+2016-05-01,train,Tigard,Cost of goods sold,-962260
+2016-05-01,train,Tigard,General & Admin,-195390
+2016-05-01,train,Tigard,Revenue,1164670
+2016-05-01,train,Tigard,Sales & Marketing,-223860
+2016-06-01,train,Tigard,Cost of goods sold,-1476540
+2016-06-01,train,Tigard,General & Admin,-183690
+2016-06-01,train,Tigard,Revenue,1993290
+2016-06-01,train,Tigard,Sales & Marketing,-231400
+2016-07-01,train,Tigard,Cost of goods sold,-1449370
+2016-07-01,train,Tigard,General & Admin,-229060
+2016-07-01,train,Tigard,Revenue,1945840
+2016-07-01,train,Tigard,Sales & Marketing,-232440
+2016-08-01,train,Tigard,Cost of goods sold,-1135030
+2016-08-01,train,Tigard,General & Admin,-250640
+2016-08-01,train,Tigard,Revenue,1759940
+2016-08-01,train,Tigard,Sales & Marketing,-232310
+2016-09-01,train,Tigard,Cost of goods sold,-1157650
+2016-09-01,train,Tigard,General & Admin,-292760
+2016-09-01,train,Tigard,Revenue,1560390
+2016-09-01,train,Tigard,Sales & Marketing,-225550
+2016-10-01,train,Tigard,Cost of goods sold,-1085630
+2016-10-01,train,Tigard,General & Admin,-198510
+2016-10-01,train,Tigard,Revenue,1449370
+2016-10-01,train,Tigard,Sales & Marketing,-164320
+2016-11-01,train,Tigard,Cost of goods sold,-1037400
+2016-11-01,train,Tigard,General & Admin,-226070
+2016-11-01,train,Tigard,Revenue,1519310
+2016-11-01,train,Tigard,Sales & Marketing,-166010
+2016-12-01,train,Tigard,Cost of goods sold,-868790
+2016-12-01,train,Tigard,General & Admin,-163410
+2016-12-01,train,Tigard,Revenue,1262430
+2016-12-01,train,Tigard,Sales & Marketing,-198380
+2017-01-01,train,Tigard,Cost of goods sold,-804310
+2017-01-01,train,Tigard,General & Admin,-200590
+2017-01-01,train,Tigard,Revenue,1047930
+2017-01-01,train,Tigard,Sales & Marketing,-154700
+2017-02-01,train,Tigard,Cost of goods sold,-835770
+2017-02-01,train,Tigard,General & Admin,-153400
+2017-02-01,train,Tigard,Revenue,1099540
+2017-02-01,train,Tigard,Sales & Marketing,-179010
+2017-03-01,train,Tigard,Cost of goods sold,-1004510
+2017-03-01,train,Tigard,General & Admin,-211770
+2017-03-01,train,Tigard,Revenue,1225380
+2017-03-01,train,Tigard,Sales & Marketing,-174460
+2017-04-01,train,Tigard,Cost of goods sold,-922220
+2017-04-01,train,Tigard,General & Admin,-206440
+2017-04-01,train,Tigard,Revenue,1234870
+2017-04-01,train,Tigard,Sales & Marketing,-176410
+2017-05-01,train,Tigard,Cost of goods sold,-1182870
+2017-05-01,train,Tigard,General & Admin,-239330
+2017-05-01,train,Tigard,Revenue,1597830
+2017-05-01,train,Tigard,Sales & Marketing,-208000
+2017-06-01,train,Tigard,Cost of goods sold,-1547000
+2017-06-01,train,Tigard,General & Admin,-244010
+2017-06-01,train,Tigard,Revenue,2206100
+2017-06-01,train,Tigard,Sales & Marketing,-223470
+2017-07-01,train,Tigard,Cost of goods sold,-1441570
+2017-07-01,train,Tigard,General & Admin,-216840
+2017-07-01,train,Tigard,Revenue,2136940
+2017-07-01,train,Tigard,Sales & Marketing,-216840
+2017-08-01,train,Tigard,Cost of goods sold,-1173510
+2017-08-01,train,Tigard,General & Admin,-216840
+2017-08-01,train,Tigard,Revenue,1790490
+2017-08-01,train,Tigard,Sales & Marketing,-226200
+2017-09-01,train,Tigard,Cost of goods sold,-979420
+2017-09-01,train,Tigard,General & Admin,-189020
+2017-09-01,train,Tigard,Revenue,1472250
+2017-09-01,train,Tigard,Sales & Marketing,-197990
+2017-10-01,train,Tigard,Cost of goods sold,-1070290
+2017-10-01,train,Tigard,General & Admin,-221650
+2017-10-01,train,Tigard,Revenue,1499290
+2017-10-01,train,Tigard,Sales & Marketing,-180180
+2017-11-01,train,Tigard,Cost of goods sold,-909350
+2017-11-01,train,Tigard,General & Admin,-184210
+2017-11-01,train,Tigard,Revenue,1261520
+2017-11-01,train,Tigard,Sales & Marketing,-174330
+2017-12-01,test,Tigard,Cost of goods sold,-774930
+2017-12-01,test,Tigard,General & Admin,-251550
+2017-12-01,test,Tigard,Revenue,1480180
+2017-12-01,test,Tigard,Sales & Marketing,-210340
+2018-01-01,test,Tigard,Cost of goods sold,-487110
+2018-01-01,test,Tigard,General & Admin,-98930
+2018-01-01,test,Tigard,Revenue,554190
+2018-01-01,test,Tigard,Sales & Marketing,-112840

@@ -1,0 +1,289 @@
+---
+title: "Power BI User Group"
+subtitle: "⚔<br/>R in Power BI"
+author: "Taras Kaduk"
+date: "2018/03/08"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+options(htmltools.dir.version = FALSE)
+
+```
+# Power BI Visual Challenge
+
+## Be Creative, Informative and Interesting!
+
+
+### **1st Place:**  Free Elite Subscription to On-Demand Training ($1295 Value)  and a $100 Gift Card to Amazon!
+### **2nd Place:**  $50 Gift Card to Amazon
+
+---
+# Agenda
+
+- What is R
+- R inside Power BI
+- Why do you even need it?
+
+---
+
+# ~~What is love?~~  What is R?
+## More importantly, what can it do?
+
+- data transform
+- stat analysis
+- machine learning / predictive modeling
+- web apps
+- reports, presentations
+- websites & books
+
+---
+# What can R do?
+## Data transformation
+
+```{r}
+head(iris)
+```
+
+
+---
+# What can R do?
+## Data transformation
+
+```{r}
+iris_gather <- iris %>% 
+    gather("key", "size", -Species)
+    
+head(iris_gather)
+```
+
+
+---
+# What can R do?
+## Data transformation
+
+```{r}
+iris_gather2 <- iris_gather %>% 
+    separate(col = key, into = c('part', 'dimension'))
+
+head(iris_gather2)    
+```
+
+---
+
+
+# What can R do?
+## Data transformation
+
+```{r}
+iris_summary <- iris_gather2 %>% 
+    group_by(Species) %>% 
+    summarise(size_avg = mean(size),
+              size_sd = sd(size),
+              size_med = median(size))
+
+head(iris_summary)    
+```
+
+---
+## **What can R do?** Data visualization
+![](https://d33wubrfki0l68.cloudfront.net/c7361de6666276165f0e6a1cccf88a9aff64ab90/19a4b/post/2017-09-mpaa/mpaa_files/figure-html/good_will_hunting-1.png)
+[https://taraskaduk.com/2018/01/10/mpaa-damon/](https://taraskaduk.com/2018/01/10/mpaa-damon/)
+---
+
+
+![](https://d33wubrfki0l68.cloudfront.net/cd18743b0d0cb9270a884f2df772e64595ac99bb/2dfe8/post/2017-11-pixel-maps/pixel-maps_files/figure-html/unnamed-chunk-5-1.png)
+
+[https://taraskaduk.com/2017/11/26/pixel-maps/](https://taraskaduk.com/2017/11/26/pixel-maps/)
+
+---
+## **What can R do?** Web apps (A.k.a Shiny)
+[https://taraskaduk.shinyapps.io/rate/](https://taraskaduk.shinyapps.io/rate/)
+
+<iframe width="100%" height = "100%" src="https://taraskaduk.shinyapps.io/rate/" frameborder="0"></iframe>
+---
+## What can R do? 
+### So much more!
+
+
+
+- reports
+- presentations
+- websites
+- books
+
+---
+
+## **What can R do?** Bread and butter
+
+
+
+
+
+
+> *"The best thing about R is that it was written by statisticians. The worst thing about R is that it was written by statisticians."*
+>   **~ Bob Cowgill** (probably) <sup>1</sup>
+
+.footnote[
+[1 - Why has R, despite quirks, been so successful? - Revolution Analytics](http://blog.revolutionanalytics.com/2015/06/why-has-r-been-so-successful.html)
+]
+
+---
+
+## What can R do? 
+### Statistical analysis and Machine Learning
+
+- perform statistical analysis
+- create, train and test models on your laptop (`caret`, `modelr` packages)
+- reach to Keras and TensorFlow from within R
+- et cetera et cetera
+
+---
+
+## R in Power BI
+### R in Microsoft
+
+What can you do with R inside of MS products?
+- Run R on SQL Server.
+- Run R code in Azure ML
+- Use Microsoft R Server for paralel processing
+
+---
+
+[https://microsoft.github.io/sql-ml-tutorials/R/rentalprediction/step/3.html](https://microsoft.github.io/sql-ml-tutorials/R/rentalprediction/step/3.html)
+
+```{sql eval=FALSE, include=TRUE}
+-- Stored procedure that trains and generates an R model using the rental_data and a decision tree algorithm
+DROP PROCEDURE IF EXISTS generate_rental_rx_model;
+go
+CREATE PROCEDURE generate_rental_rx_model (@trained_model varbinary(max) OUTPUT)
+AS
+BEGIN
+    EXECUTE sp_execute_external_script
+      @language = N'R'
+    , @script = N'
+        require("RevoScaleR");
+
+
+			rental_train_data$Holiday = factor(rental_train_data$Holiday);
+            rental_train_data$Snow = factor(rental_train_data$Snow);
+            rental_train_data$WeekDay = factor(rental_train_data$WeekDay);
+
+        #Create a dtree model and train it using the training data set
+        model_dtree <- rxDTree(RentalCount ~ Month + Day + WeekDay + Snow + Holiday, data = rental_train_data);
+        #Before saving the model to the DB table, we need to serialize it
+        trained_model <- as.raw(serialize(model_dtree, connection=NULL));'
+
+    , @input_data_1 = N'select "RentalCount", "Year", "Month", "Day", "WeekDay", "Snow", "Holiday" from dbo.rental_data where Year < 2015'
+    , @input_data_1_name = N'rental_train_data'
+    , @params = N'@trained_model varbinary(max) OUTPUT'
+    , @trained_model = @trained_model OUTPUT;
+END;
+GO
+```
+
+---
+
+## R in Power BI
+
+That's cool, but what can I do with R in Power BI?
+
+- scripts
+- visuals
+
+---
+# Demo 1 - financial foreacst in R -> visualize in Power BI
+
+- financial_forecast_demo.R
+- financial_forecast_demo_working.pbix
+- PowerBI-visuals-forcasting-exp.1.0.3.0.pbix
+
+---
+
+# Power BI in R
+## Custom R Visuals
+
+[https://github.com/Microsoft/PowerBI-visuals-forcasting-exp](https://github.com/Microsoft/PowerBI-visuals-forcasting-exp)
+
+```{r eval = FALSE}
+  ets_params = list(Automatic="Z",Multiplicative="M",Additive="A",None="N")
+  if(frequency(timeSeries) == 1)
+    seasonType = "None"
+  deModel = paste(ets_params[[errorType]],ets_params[[trendType]],ets_params[[seasonType]],sep="")
+  
+  if(sum(deModel==c("ANM","ZMA","MMA","AZM","AMZ","AMM","AMA","AMN","AAM")))# Forbidden model combination 
+    deModel = "ZZZ"
+  
+  fit = ets(timeSeries, model=deModel,damped=damped)
+
+```
+
+
+---
+# Power BI in R
+## Custom R Visuals
+
+[https://github.com/Microsoft/PowerBI-visuals-forcasting-exp](https://github.com/Microsoft/PowerBI-visuals-forcasting-exp)
+
+```{r eval = FALSE}
+    p1a <- p1a + labs (title = pbiInfo, caption = NULL) + theme_bw() 
+    p1a <- p1a + xlab(labTime) + ylab(labValue) 
+    p1a <- p1a + scale_x_continuous(breaks = seq(1,length(prediction$x) + length(prediction$mean)-1, length.out = numTicks), labels = x_with_forcast_formatted) 
+    p1a <- p1a +  theme(axis.text.x  = element_text(angle = getAngleXlabels(x_with_forcast_formatted), 
+                                                    hjust=1, size = sizeTicks, colour = "gray60"),
+                        axis.text.y  = element_text(vjust = 0.5, size = sizeTicks, colour = "gray60"),
+                        plot.title  = element_text(hjust = 0.5, size = sizeWarn), 
+                        axis.title=element_text(size =  sizeLabel),
+                        axis.text=element_text(size =  sizeTicks),
+                        panel.border = element_blank()) 
+```
+
+
+---
+# Demo 2
+## Use R script within Query Editor
+
+- car_data.csv
+
+---
+# Demo 3
+## Use a model to create a *What If* scenario
+
+- what_if.R
+- what_if.pbix
+
+---
+# Demo 4
+## R Visuals
+
+- what_if.pbix
+- financial_forecast_demo_working.pbix
+
+---
+# When to use R in Power BI
+
+## Do
+- performance
+- machine learning, statistical analysis
+- custom visualizations
+
+## Don't
+- when no one else knows R on your team
+- when you can get by with Power BI
+- when you can get by with SQL
+
+---
+
+
+- Pre-built visuals
+    - https://docs.microsoft.com/en-us/power-bi/service-custom-visuals-getting-started-with-developer-tools
+    - https://github.com/Microsoft/PowerBI-visuals
+    - http://community.powerbi.com/t5/Developer/Tweaking-an-existing-Custom-Visual-the-change-is-successful-but/m-p/107019
+    - https://github.com/Microsoft/PowerBI-visuals-forcasting-exp/blob/master/script.r
