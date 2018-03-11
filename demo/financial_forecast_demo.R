@@ -1,5 +1,7 @@
 # Library -----------------------------------------------------------------
 
+# Make sure all these libraries are installed beforehand, or the code won't work otherwise.
+
 library(tidyverse)
 library(readxl)
 library(odbc)
@@ -11,12 +13,18 @@ library(corrplot)
 library(sweep)
 
 
-# Import ------------------------------------------------------------------
+# You'll need to edit this path right here. Point it to where the data file is stored.
+# Normally, you can use getwd(), here::here() or simply use R projects in R.
+# However, Power BI sets a working directory in the internal temp folders, 
+# and you'll have to hard code your real path to overcome this.
 
-financials_by_division <- read_csv('demo/financials_by_division.csv')
+
+path <- "C:/Users/TKaduk/Google Drive/r/r-in-power-bi/demo"
+financials_by_division <- read_csv(paste0(path,'/financials_by_division.csv'))
 
 
 # Transform: grouping and nesting -----------------------------------------
+  
 
 division_min_dates <- financials_by_division %>% 
   filter(amount != 0) %>% 
@@ -26,6 +34,7 @@ division_min_dates <- financials_by_division %>%
 
 financials_by_division_filtered <- financials_by_division %>% 
   left_join(division_min_dates, by = 'division') %>% 
+  mutate(min_date = if_else(month(min_date) == 1, min_date, ceiling_date(min_date, unit = 'year'))) %>% 
   filter(date >= min_date & 
          min_date <= today() - months(15)) %>% 
   mutate(start = year(min_date)) %>% 
@@ -165,7 +174,7 @@ financials_final <- financials_by_division_filtered %>%
   union_all(financials_unnested) %>% 
   union_all(financials_unnested_train)
 
-write_csv(financials_final, paste0('demo/financials_forecast.csv'))
+write_csv(financials_final, paste0('financials_forecast.csv'))
 
 ##sample
 financials_final %>% 
@@ -211,14 +220,4 @@ ggplot(financials_final %>%
   geom_point(size = 3, alpha = 0.3) +
   facet_wrap(~ division, scales = "free")
 
-
-##all divisiones pl_groups
-# ggplot(financials_final %>% 
-#          group_by(pl_group, date, var) %>% 
-#          summarise(amount = sum(amount)), 
-#        aes(x = date, y = amount, col = var, group = interaction('historical', 'forecast'))) +
-#   geom_line(na.rm = TRUE) +
-#   facet_wrap(~ pl_group, scales = "free")
-
 rm(list=setdiff(ls(), "financials_final"))
-

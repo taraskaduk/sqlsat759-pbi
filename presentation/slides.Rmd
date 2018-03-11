@@ -17,20 +17,15 @@ library(tidyverse)
 options(htmltools.dir.version = FALSE)
 
 ```
-# Power BI Visual Challenge
-
-## Be Creative, Informative and Interesting!
-
-
-### **1st Place:**  Free Elite Subscription to On-Demand Training ($1295 Value)  and a $100 Gift Card to Amazon!
-### **2nd Place:**  $50 Gift Card to Amazon
-
----
 # Agenda
 
 - What is R
 - R inside Power BI
 - Why do you even need it?
+
+# Slides and stuff
+
+## [https://github.com/taraskaduk/r-in-power-bi](https://github.com/taraskaduk/r-in-power-bi)
 
 ---
 
@@ -97,7 +92,8 @@ head(iris_summary)
 ![](https://d33wubrfki0l68.cloudfront.net/c7361de6666276165f0e6a1cccf88a9aff64ab90/19a4b/post/2017-09-mpaa/mpaa_files/figure-html/good_will_hunting-1.png)
 [https://taraskaduk.com/2018/01/10/mpaa-damon/](https://taraskaduk.com/2018/01/10/mpaa-damon/)
 ---
-
+# What can R do?
+## Data visualization
 
 ![](https://d33wubrfki0l68.cloudfront.net/cd18743b0d0cb9270a884f2df772e64595ac99bb/2dfe8/post/2017-11-pixel-maps/pixel-maps_files/figure-html/unnamed-chunk-5-1.png)
 
@@ -115,7 +111,7 @@ head(iris_summary)
 
 
 - reports
-- presentations
+- presentations (including this one!)
 - websites
 - books
 
@@ -141,7 +137,7 @@ head(iris_summary)
 ### Statistical analysis and Machine Learning
 
 - perform statistical analysis
-- create, train and test models on your laptop (`caret`, `modelr` packages)
+- create, train and test models on your laptop (`caret`, `modelr` packages, etc)
 - reach to Keras and TensorFlow from within R
 - et cetera et cetera
 
@@ -202,7 +198,6 @@ That's cool, but what can I do with R in Power BI?
 # Demo 1 - financial foreacst in R -> visualize in Power BI
 
 - financial_forecast_demo.R
-- financial_forecast_demo_working.pbix
 - PowerBI-visuals-forcasting-exp.1.0.3.0.pbix
 
 ---
@@ -264,7 +259,7 @@ That's cool, but what can I do with R in Power BI?
 ## R Visuals
 
 - what_if.pbix
-- financial_forecast_demo_working.pbix
+- financial_forecast_demo.pbix
 
 ---
 # When to use R in Power BI
@@ -280,10 +275,15 @@ That's cool, but what can I do with R in Power BI?
 - when you can get by with SQL
 
 ---
+# The end
 
+## Follow me:
+- [https://taraskaduk.com](https://taraskaduk.com)
+- [https://www.linkedin.com/in/taraskaduk/](https://www.linkedin.com/in/taraskaduk/)
+- [https://github.com/taraskaduk/](https://github.com/taraskaduk/)
+- [https://twitter.com/taraskaduk](https://twitter.com/taraskaduk)
 
-- Pre-built visuals
-    - https://docs.microsoft.com/en-us/power-bi/service-custom-visuals-getting-started-with-developer-tools
-    - https://github.com/Microsoft/PowerBI-visuals
-    - http://community.powerbi.com/t5/Developer/Tweaking-an-existing-Custom-Visual-the-change-is-successful-but/m-p/107019
-    - https://github.com/Microsoft/PowerBI-visuals-forcasting-exp/blob/master/script.r
+## This presentation is here
+
+### [https://github.com/taraskaduk/r-in-power-bi](https://github.com/taraskaduk/r-in-power-bi)
+
