@@ -349,10 +349,10 @@ class:middle, center
 
 ---
 class:middle, center
-<img src="https://raw.githubusercontent.com/taraskaduk/r-in-power-bi/master/presentation/5.PNG">
+<img src="https://raw.githubusercontent.com/taraskaduk/r-in-power-bi/master/presentation/1.PNG">
 ---
 class:middle, center
-<img src="https://raw.githubusercontent.com/taraskaduk/r-in-power-bi/master/presentation/5.PNG">
+<img src="https://raw.githubusercontent.com/taraskaduk/r-in-power-bi/master/presentation/2.PNG">
 
 ---
 
@@ -382,6 +382,6 @@ class:middle, center
 
 ## This presentation is here
 
-### [https://github.com/taraskaduk/r-in-power-bi](https://github.com/taraskaduk/r-in-power-bi)
-### [https://taraskaduk.github.io/rpowerbi.html]
+### https://github.com/taraskaduk/r-in-power-bi
+### https://taraskaduk.github.io/rpowerbi.html
 
