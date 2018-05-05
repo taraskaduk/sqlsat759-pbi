@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Power BI User Group</title>
+    <title>R in Power BI</title>
     <meta charset="utf-8">
     <meta name="author" content="Taras Kaduk" />
     <link href="libs/remark-css/default.css" rel="stylesheet" />
@@ -11,10 +11,10 @@
     <textarea id="source">
 class: center, middle, inverse, title-slide
 
-# Power BI User Group
-## ⚔<br/>R in Power BI
+# R in Power BI
+## SQL Saturday #759
 ### Taras Kaduk
-### 2018/03/08
+### 2018/05/05
 
 ---
 
@@ -146,10 +146,10 @@ head(iris_summary)
 [https://taraskaduk.com/2017/11/26/pixel-maps/](https://taraskaduk.com/2017/11/26/pixel-maps/)
 
 ---
-## **What can R do?** Web apps (A.k.a Shiny)
+### **What can R do?** Web apps (A.k.a Shiny)
 [https://taraskaduk.shinyapps.io/rate/](https://taraskaduk.shinyapps.io/rate/)
 
-&lt;iframe width="100%" height = "100%" src="https://taraskaduk.shinyapps.io/rate/" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe width="800" height = "500" src="https://taraskaduk.shinyapps.io/rate/" frameborder="0"&gt;&lt;/iframe&gt;
 ---
 ## What can R do? 
 ### So much more!
@@ -233,24 +233,45 @@ GO
 ```
 
 ---
+class: center, middle
 
+![](https://docs.microsoft.com/en-us/azure/machine-learning/studio/media/r-quickstart/fig1.png)
+
+---
+class: center, middle
+![](https://sdtimes.com/wp-content/uploads/2016/01/0113.sdt-news.png)
+
+---
+class: center, middle
+![](https://image.slidesharecdn.com/1-lab209-160901013524/95/microsoft-r-server-for-distributed-computing-23-1024.jpg?cb=1472693770)
+
+---
 ## R in Power BI
 
 That's cool, but what can I do with R in Power BI?
 
+- custom R visuals
 - scripts
 - visuals
 
 ---
-# Demo 1 - financial foreacst in R -&gt; visualize in Power BI
-
-- financial_forecast_demo.R
-- PowerBI-visuals-forcasting-exp.1.0.3.0.pbix
+class: middle, center
+# Custom R visuals
+---
+![](http://gqbi.files.wordpress.com/2016/08/082516_0434_binsightpow3.png)
+http://community.powerbi.com/t5/R-Script-Showcase/bd-p/RVisuals
+---
+# Custom R visuals
+https://docs.microsoft.com/en-us/power-bi/desktop-r-powered-custom-visuals
+![](https://docs.microsoft.com/en-us/power-bi/media/desktop-r-powered-custom-visuals/powerbi-r-powered-custom-viz_3a.png)
 
 ---
+# Custom R visuals
+![](https://docs.microsoft.com/en-us/power-bi/media/desktop-r-powered-custom-visuals/powerbi-r-powered-custom-viz_10.png)
 
-# Power BI in R
-## Custom R Visuals
+
+---
+# Custom R Visuals
 
 [https://github.com/Microsoft/PowerBI-visuals-forcasting-exp](https://github.com/Microsoft/PowerBI-visuals-forcasting-exp)
 
@@ -269,8 +290,7 @@ That's cool, but what can I do with R in Power BI?
 
 
 ---
-# Power BI in R
-## Custom R Visuals
+# Custom R Visuals
 
 [https://github.com/Microsoft/PowerBI-visuals-forcasting-exp](https://github.com/Microsoft/PowerBI-visuals-forcasting-exp)
 
@@ -288,26 +308,113 @@ That's cool, but what can I do with R in Power BI?
                         panel.border = element_blank()) 
 ```
 
+---
+class: middle, center
+# Custom R visuals in Power BI are well thought-out and overall legit. Use them
+---
+class: middle, center
+# R Scripts
+---
+# R scripts
+
+&lt;br&gt;&lt;br&gt;
+
+### - When Power Query can't do the job
+### - When Power Query is slow and clunky
+---
+# R scripts
+
+This
+```
+let
+    Source = Web.Page(
+                Web.Contents(
+                "https://github.com/jennybc/gapminder/blob/master/inst/extdata/gapminder.tsv"
+                )),
+    Data = Source{0}[Data],
+    col_types = Table.TransformColumnTypes(Data,{
+                                  {"", type text}, 
+                                  {"country", type text}, 
+                                  {"continent", type text}, 
+                                  {"year", Int64.Type}, 
+                                  {"lifeExp", type number}, 
+                                  {"pop", Int64.Type}, 
+                                  {"gdpPercap", type number}
+                                                }),
+    filter = Table.SelectRows(col_types, each ([year] = 2007)),
+    mutate = Table.AddColumn(filter, "lifeExpMonths", 
+                                each [lifeExp] * 12, type number),
+    arrange = Table.Sort(mutate,{{"lifeExpMonths", Order.Descending}})
+in
+    arrange
+```
 
 ---
-# Demo 2
-## Use R script within Query Editor
+# R scripts
 
-- car_data.csv
+VS this
+
+```r
+library(gapminder)
+library(dplyr)
+
+gapminder %&gt;%
+  filter(year == '2007') %&gt;%
+  mutate(lifeExpMonths = 12 * lifeExp) %&gt;%
+  arrange(desc(lifeExpMonths))
+```
 
 ---
-# Demo 3
-## Use a model to create a *What If* scenario
+# R scripts
+## *What If* demo
 
 - what_if.R
 - what_if.pbix
 
 ---
-# Demo 4
-## R Visuals
+class:middle, center
+&lt;img src="3.png"&gt;
 
-- what_if.pbix
+---
+class:middle, center
+&lt;img src="4.png"&gt;
+
+---
+class:middle, center
+&lt;img src="5.png"&gt;
+
+---
+# R scripts
+## *What If* demo
+
+https://app.powerbi.com/view?r=eyJrIjoiNmNjZGE3MzEtMmMxYy00NDRmLWEyZmEtOTAyM2FmNTQzMzc2IiwidCI6IjQ4NTlkNTVmLTkyMjUtNDNmYy1iMWJiLWUwM2I0MmE4NWM0ZCIsImMiOjJ9
+
+---
+&lt;iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNmNjZGE3MzEtMmMxYy00NDRmLWEyZmEtOTAyM2FmNTQzMzc2IiwidCI6IjQ4NTlkNTVmLTkyMjUtNDNmYy1iMWJiLWUwM2I0MmE4NWM0ZCIsImMiOjJ9" frameborder="0" allowFullScreen="true"&gt;&lt;/iframe&gt;
+---
+# R scripts
+## Forecast demo
+
 - financial_forecast_demo.pbix
+- financial_forecast_demo.r
+- https://app.powerbi.com/view?r=eyJrIjoiZWU0ZjUzZGUtZjk5Yi00ZGU1LThhZTgtYWJiNGEzYzFlZjgyIiwidCI6IjQ4NTlkNTVmLTkyMjUtNDNmYy1iMWJiLWUwM2I0MmE4NWM0ZCIsImMiOjJ9
+
+---
+class:middle, center
+&lt;img src="1.png"&gt;
+---
+class:middle, center
+&lt;img src="2.png"&gt;
+
+---
+# R scripts
+## Forecast demo
+
+https://app.powerbi.com/view?r=eyJrIjoiZWU0ZjUzZGUtZjk5Yi00ZGU1LThhZTgtYWJiNGEzYzFlZjgyIiwidCI6IjQ4NTlkNTVmLTkyMjUtNDNmYy1iMWJiLWUwM2I0MmE4NWM0ZCIsImMiOjJ9
+
+---
+
+&lt;iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZWU0ZjUzZGUtZjk5Yi00ZGU1LThhZTgtYWJiNGEzYzFlZjgyIiwidCI6IjQ4NTlkNTVmLTkyMjUtNDNmYy1iMWJiLWUwM2I0MmE4NWM0ZCIsImMiOjJ9" frameborder="0" allowFullScreen="true"&gt;&lt;/iframe&gt;
 
 ---
 # When to use R in Power BI
@@ -339,7 +446,8 @@ That's cool, but what can I do with R in Power BI?
 <script>var slideshow = remark.create({
 "highlightStyle": "github",
 "highlightLines": true,
-"countIncrementalSlides": false
+"countIncrementalSlides": false,
+"ratio": "4:3"
 });
 if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   window.dispatchEvent(new Event('resize'));

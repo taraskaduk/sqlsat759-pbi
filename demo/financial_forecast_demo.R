@@ -4,7 +4,6 @@
 
 library(tidyverse)
 library(readxl)
-library(odbc)
 library(xts)
 library(forecast)
 library(timetk)
@@ -20,7 +19,7 @@ library(sweep)
 
 
 path <- "C:/Users/TKaduk/Google Drive/r/r-in-power-bi/demo"
-financials_by_division <- read_csv(paste0(path,'/financials_by_division.csv'))
+financials_by_division <- read_csv(paste0('demo/financials_by_division.csv'))
 
 
 # Transform: grouping and nesting -----------------------------------------
