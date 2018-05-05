@@ -322,24 +322,20 @@ gapminder %>%
 
 - what_if.R
 - what_if.pbix
+- https://app.powerbi.com/view?r=eyJrIjoiNmNjZGE3MzEtMmMxYy00NDRmLWEyZmEtOTAyM2FmNTQzMzc2IiwidCI6IjQ4NTlkNTVmLTkyMjUtNDNmYy1iMWJiLWUwM2I0MmE4NWM0ZCIsImMiOjJ9
+
 
 ---
 class:middle, center
-<img src="3.png">
+<img src="https://raw.githubusercontent.com/taraskaduk/r-in-power-bi/master/presentation/3.PNG">
 
 ---
 class:middle, center
-<img src="4.png">
+<img src="https://raw.githubusercontent.com/taraskaduk/r-in-power-bi/master/presentation/4.PNG">
 
 ---
 class:middle, center
-<img src="5.png">
-
----
-# R scripts
-## *What If* demo
-
-https://app.powerbi.com/view?r=eyJrIjoiNmNjZGE3MzEtMmMxYy00NDRmLWEyZmEtOTAyM2FmNTQzMzc2IiwidCI6IjQ4NTlkNTVmLTkyMjUtNDNmYy1iMWJiLWUwM2I0MmE4NWM0ZCIsImMiOjJ9
+<img src="https://raw.githubusercontent.com/taraskaduk/r-in-power-bi/master/presentation/5.PNG">
 
 ---
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNmNjZGE3MzEtMmMxYy00NDRmLWEyZmEtOTAyM2FmNTQzMzc2IiwidCI6IjQ4NTlkNTVmLTkyMjUtNDNmYy1iMWJiLWUwM2I0MmE4NWM0ZCIsImMiOjJ9" frameborder="0" allowFullScreen="true"></iframe>
@@ -353,16 +349,10 @@ https://app.powerbi.com/view?r=eyJrIjoiNmNjZGE3MzEtMmMxYy00NDRmLWEyZmEtOTAyM2FmN
 
 ---
 class:middle, center
-<img src="1.png">
+<img src="https://raw.githubusercontent.com/taraskaduk/r-in-power-bi/master/presentation/5.PNG">
 ---
 class:middle, center
-<img src="2.png">
-
----
-# R scripts
-## Forecast demo
-
-https://app.powerbi.com/view?r=eyJrIjoiZWU0ZjUzZGUtZjk5Yi00ZGU1LThhZTgtYWJiNGEzYzFlZjgyIiwidCI6IjQ4NTlkNTVmLTkyMjUtNDNmYy1iMWJiLWUwM2I0MmE4NWM0ZCIsImMiOjJ9
+<img src="https://raw.githubusercontent.com/taraskaduk/r-in-power-bi/master/presentation/5.PNG">
 
 ---
 
@@ -393,4 +383,5 @@ https://app.powerbi.com/view?r=eyJrIjoiZWU0ZjUzZGUtZjk5Yi00ZGU1LThhZTgtYWJiNGEzY
 ## This presentation is here
 
 ### [https://github.com/taraskaduk/r-in-power-bi](https://github.com/taraskaduk/r-in-power-bi)
+### [https://taraskaduk.github.io/rpowerbi.html]
 
