@@ -3,6 +3,8 @@ library(modelr)
 
 data("mtcars")
 
+mtcars %>%  View()
+
 ggplot(mtcars, aes(x=wt, y=mpg, col=cyl, size=disp)) + geom_point()
 model <- lm(mpg ~ wt + disp + cyl, data=mtcars)
 
